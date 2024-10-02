@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="https://i.postimg.cc/qqXxFJSD/TV-3.png",26TV
+#EXTINF:-1 tvg"https://i.postimg.cc/qqXxFJSD/TV-3.png",26TV
 http://168.197.196.98:82/stream/channelid/810015236?profile=pass
-#EXTINF:-1 tvg-id="https://i.postimg.cc/qqXxFJSD/TV-3.png",A&E HD
+#EXTINF:-1 tvg="https://i.postimg.cc/qqXxFJSD/TV-3.png",A&E HD
 http://168.197.196.98:82/stream/channelid/480984636?profile=pass
 #EXTINF:-1 tvg-id="https://i.postimg.cc/qqXxFJSD/TV-3.png",A24
 http://168.197.196.98:82/stream/channelid/856331487?profile=pass
