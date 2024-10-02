@@ -1,4 +1,6 @@
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnvM57Vt/TV-5.png",26TV
+#EXTINF:-1,#EXTINF:-1 tvg-logo="https://i.postimg.cc/d0YV9GGY/TV-5.png",M3U PEMIUM
+https://youtu.be/Vb99QaSSMgA?si=Dptqmx6ZqZDqUzvk
+#EXTINF:-1,26TV
 http://168.197.196.98:82/stream/channelid/810015236?profile=pass
 #EXTINF:-1,A&E HD
 http://168.197.196.98:82/stream/channelid/480984636?profile=pass
