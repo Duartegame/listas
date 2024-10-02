@@ -1,103 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="26TV",26TV
-https://i.postimg.cc/qqXxFJSD/TV-3.png
+#EXTINF:-1 tvg-name="26TV" tvg-logo="https://i.postimg.cc/qqXxFJSD/TV-3.png",26TV
 http://168.197.196.98:82/stream/channelid/810015236?profile=pass
-#EXTINF:-1 tvg-name="A&E HD",A&E HD
-https://i.postimg.cc/qqXxFJSD/TV-3.png
+#EXTINF:-1 tvg-name="A&E HD" tvg-logo="https://i.postimg.cc/qqXxFJSD/TV-3.png",A&E HD
 http://168.197.196.98:82/stream/channelid/480984636?profile=pass
-#EXTINF:-1 tvg-name="A24",A24
-https://i.postimg.cc/qqXxFJSD/TV-3.png
+#EXTINF:-1 tvg-name="A24" tvg-logo="https://i.postimg.cc/qqXxFJSD/TV-3.png",A24
 http://168.197.196.98:82/stream/channelid/856331487?profile=pass
-#EXTINF:-1 tvg-name="AM Continental",AM Continental
-https://i.postimg.cc/qqXxFJSD/TV-3.png
+#EXTINF:-1 tvg-name="AM Continental" tvg-logo="https://i.postimg.cc/qqXxFJSD/TV-3.png",AM Continental
 http://168.197.196.98:82/stream/channelid/111283883?profile=pass
-#EXTINF:-1 tvg-name="AM Sports",AM Sports
-https://i.postimg.cc/qqXxFJSD/TV-3.png
+#EXTINF:-1 tvg-name="AM Sports" tvg-logo="https://i.postimg.cc/qqXxFJSD/TV-3.png",AM Sports
 http://168.197.196.98:82/stream/channelid/186926853?profile=pass
-#EXTINF:-1 tvg-name="AMC",AMC
-https://i.postimg.cc/qqXxFJSD/TV-3.png
+#EXTINF:-1 tvg-name="AMC" tvg-logo="https://i.postimg.cc/qqXxFJSD/TV-3.png",AMC
 http://168.197.196.98:82/stream/channelid/836733280?profile=pass
-#EXTINF:-1 tvg-name="America TV HD",America TV HD
-https://i.postimg.cc/qqXxFJSD/TV-3.png
+#EXTINF:-1 tvg-name="America TV HD" tvg-logo="https://i.postimg.cc/qqXxFJSD/TV-3.png",America TV HD
 http://168.197.196.98:82/stream/channelid/442797857?profile=pass
-#EXTINF:-1 tvg-name="AXN HD",AXN HD
-https://i.postimg.cc/qqXxFJSD/TV-3.png
+#EXTINF:-1 tvg-name="AXN HD" tvg-logo="https://i.postimg.cc/qqXxFJSD/TV-3.png",AXN HD
 http://168.197.196.98:82/stream/channelid/1234256426?profile=pass
-#EXTINF:-1 tvg-name="Baby TV",Baby TV
-https://i.postimg.cc/qqXxFJSD/TV-3.png
+#EXTINF:-1 tvg-name="Baby TV" tvg-logo="https://i.postimg.cc/qqXxFJSD/TV-3.png",Baby TV
 http://168.197.196.98:82/stream/channelid/2110198993?profile=pass
-#EXTINF:-1 tvg-name="C5N",C5N
-https://i.postimg.cc/qqXxFJSD/TV-3.png
+#EXTINF:-1 tvg-name="C5N" tvg-logo="https://i.postimg.cc/qqXxFJSD/TV-3.png",C5N
 http://168.197.196.98:82/stream/channelid/1962938685?profile=pass
-#EXTINF:-1 tvg-name="Canal a",Canal a
-https://i.postimg.cc/qqXxFJSD/TV-3.png
+#EXTINF:-1 tvg-name="Canal a" tvg-logo="https://i.postimg.cc/qqXxFJSD/TV-3.png",Canal a
 http://168.197.196.98:82/stream/channelid/122775116?profile=pass
-#EXTINF:-1 tvg-name="Canal de la Ciudad",Canal de la Ciudad
-https://i.postimg.cc/qqXxFJSD/TV-3.png
+#EXTINF:-1 tvg-name="Canal de la Ciudad" tvg-logo="https://i.postimg.cc/qqXxFJSD/TV-3.png",Canal de la Ciudad
 http://168.197.196.98:82/stream/channelid/1330348835?profile=pass
-#EXTINF:-1 tvg-name="Cartoon Network HD",Cartoon Network HD
-https://i.postimg.cc/qqXxFJSD/TV-3.png
-http://168.197.196.98:82/stream/channelid/1449652276?profile=pass
-#EXTINF:-1 tvg-name="Cartoonito",Cartoonito
-https://i.postimg.cc/qqXxFJSD/TV-3.png
-http://168.197.196.98:82/stream/channelid/2122795167?profile=pass
-#EXTINF:-1 tvg-name="Cine.AR",Cine.AR
-https://i.postimg.cc/qqXxFJSD/TV-3.png
-http://168.197.196.98:82/stream/channelid/254569406?profile=pass
-#EXTINF:-1 tvg-name="Cinecanal HD",Cinecanal HD
-https://i.postimg.cc/qqXxFJSD/TV-3.png
-http://168.197.196.98:82/stream/channelid/1978046079?profile=pass
-#EXTINF:-1 tvg-name="Cinemax",Cinemax
-https://i.postimg.cc/qqXxFJSD/TV-3.png
-http://168.197.196.98:82/stream/channelid/1417247568?profile=pass
-#EXTINF:-1 tvg-name="ciudad magazine",ciudad magazine
-https://i.postimg.cc/qqXxFJSD/TV-3.png
-http://168.197.196.98:82/stream/channelid/60336013?profile=pass
-#EXTINF:-1 tvg-name="CNN en Español",CNN en Español
-https://i.postimg.cc/qqXxFJSD/TV-3.png
-http://168.197.196.98:82/stream/channelid/438380873?profile=pass
-#EXTINF:-1 tvg-name="Comedy Central HD",Comedy Central HD
-https://i.postimg.cc/qqXxFJSD/TV-3.png
-http://168.197.196.98:82/stream/channelid/1985350283?profile=pass
-#EXTINF:-1 tvg-name="Cronica",Cronica
-https://i.postimg.cc/qqXxFJSD/TV-3.png
-http://168.197.196.98:82/stream/channelid/1899762131?profile=pass
-#EXTINF:-1 tvg-name="DeporTV",DeporTV
-https://i.postimg.cc/qqXxFJSD/TV-3.png
-http://168.197.196.98:82/stream/channelid/1305008823?profile=pass
-#EXTINF:-1 tvg-name="Discovery Channel HD",Discovery Channel HD
-https://i.postimg.cc/qqXxFJSD/TV-3.png
-http://168.197.196.98:82/stream/channelid/1956161160?profile=pass
-#EXTINF:-1 tvg-name="Discovery H&H HD",Discovery H&H HD
-https://i.postimg.cc/qqXxFJSD/TV-3.png
-http://168.197.196.98:82/stream/channelid/650301474?profile=pass
-#EXTINF:-1 tvg-name="Discovery Kids HD",Discovery Kids HD
-https://i.postimg.cc/qqXxFJSD/TV-3.png
-http://168.197.196.98:82/stream/channelid/995899964?profile=pass
-#EXTINF:-1 tvg-name="Discovery Theater HD",Discovery Theater HD
-https://i.postimg.cc/qqXxFJSD/TV-3.png
-http://168.197.196.98:82/stream/channelid/419708250?profile=pass
-#EXTINF:-1 tvg-name="Discovery World HD",Discovery World HD
-https://i.postimg.cc/qqXxFJSD/TV-3.png
-http://168.197.196.98:82/stream/channelid/2091100492?profile=pass
-#EXTINF:-1 tvg-name="Disney Channel HD",Disney Channel HD
-https://i.postimg.cc/qqXxFJSD/TV-3.png
-http://168.197.196.98:82/stream/channelid/148277195?profile=pass
-#EXTINF:-1 tvg-name="Disney Junior",Disney Junior
-https://i.postimg.cc/qqXxFJSD/TV-3.png
-http://168.197.196.98:82/stream/channelid/484831396?profile=pass
-#EXTINF:-1 tvg-name="E! Entertainment",E! Entertainment
-https://i.postimg.cc/qqXxFJSD/TV-3.png
-http://168.197.196.98:82/stream/channelid/779505690?profile=pass
-#EXTINF:-1 tvg-name="El Canal de las Estrellas",El Canal de las Estrellas
-https://i.postimg.cc/qqXxFJSD/TV-3.png
-http://168.197.196.98:82/stream/channelid/812888360?profile=pass
-#EXTINF:-1 tvg-name="El Gourmet",El Gourmet
-https://i.postimg.cc/qqXxFJSD/TV-3.png
-http://168.197.196.98:82/stream/channelid/1761522076?profile=pass
-#EXTINF:-1 tvg-name="el nueve HD",el nueve HD
-https://i.postimg.cc/qqXxFJSD/TV-3.png
-http://168.197.196.98:82/stream/channelid/369719429?profile=pass
-#EXTINF:-1 tvg-name="el trece HD",el trece HD
-https://i.postimg.cc/qqXxFJSD/TV-3.png
-http://168.197.196.98:82/stream/channelid/846765743?profile=pass
