@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, TV PREMIUM
+https://youtu.be/psnWslCeC98?si=2mg35YW4Lr2mRgew
 #EXTINF:-1 tvg-logo="http://190.83.2.172:6001/imagecache/1" tvg-id="90d80864eab7b5f7550547697a2c1e7a",AMC
 http://190.83.2.172:6001/stream/channelid/1678301328?profile=pass
 #EXTINF:-1 tvg-logo="http://190.83.2.172:6001/imagecache/2" tvg-id="7ce1001431fe64aa2cfdedb129be4118",BEATBOX SD
