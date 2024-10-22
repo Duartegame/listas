@@ -47,3 +47,72 @@ http://190.83.2.172:6001/stream/channelid/278142448?profile=pass
 http://190.83.2.172:6001/stream/channelid/714354953?profile=pass
 #EXTINF:-1 tvg-logo="http://190.83.2.172:6001/imagecache/23" tvg-id="7243bb4c46279972a8022c4a28c1a8db",VIDEOROLA SD
 http://190.83.2.172:6001/stream/channelid/1287340914?profile=pass
+
+
+#EXTM3U
+#EXTINF:-1 logo="http://ahm.red/tdt/logos/Clan.png" tvg-id="7f73f5891f1da2e4d12821c6826fc4cb",24h HD
+http://79.117.14.97:9981/stream/channelid/167080831?profile=pass
+#EXTINF:-1 logo="http://ahm.red/tdt/logos/A%20Punt%20HD.png" tvg-id="e806f8e43f6864764d0b42a637ad8e8e",A Punt HD
+http://79.117.14.97:9981/stream/channelid/1693976296?profile=pass
+#EXTINF:-1 logo="http://ahm.red/tdt/logos/TEN.png" tvg-id="f5f61efad086741c8f648a5221e368bc",TEN
+http://79.117.14.97:9981/stream/channelid/2048849653?profile=pass
+#EXTINF:-1 logo="http://ahm.red/tdt/logos/La%201.png" tvg-id="5c9d9ae49b13c31ed170863050b796cc" tvg-chno="1",La 1
+http://79.117.14.97:9981/stream/channelid/1687854428?profile=pass
+#EXTINF:-1 logo="http://ahm.red/tdt/logos/La%201.png" tvg-id="7fc0172e6a2c17dcdb3f100e13bf80b3" tvg-chno="1",tdp HD
+http://79.117.14.97:9981/stream/channelid/773308543?profile=pass
+#EXTINF:-1 logo="http://ahm.red/tdt/logos/La%202.png" tvg-id="d044719ca33ee0727119124fe932e178" tvg-chno="2",La 2
+http://79.117.14.97:9981/stream/channelid/477185232?profile=pass
+#EXTINF:-1 logo="http://ahm.red/tdt/logos/La%202.png" tvg-id="ba530d23e275ca5c930b4c84f3b7dec3" tvg-chno="2",La 2
+http://79.117.14.97:9981/stream/channelid/588075962?profile=pass
+#EXTINF:-1 logo="http://ahm.red/tdt/logos/Antena%203.png" tvg-id="01dab7d2add694d3b0099e4b0ee90efc" tvg-chno="3",Antena 3
+http://79.117.14.97:9981/stream/channelid/1387780609?profile=pass
+#EXTINF:-1 logo="http://ahm.red/tdt/logos/antena3.png" tvg-id="ce4ab6f4eb8baa6a3cd683b8f52e5e12" tvg-chno="3",antena3
+http://79.117.14.97:9981/stream/channelid/1958103758?profile=pass
+#EXTINF:-1 logo="http://ahm.red/tdt/logos/Cuatro.png" tvg-id="d984329df3a48a998beb116b7946cef9" tvg-chno="4",Cuatro
+http://79.117.14.97:9981/stream/channelid/489850073?profile=pass
+#EXTINF:-1 logo="http://ahm.red/tdt/logos/Cuatro.png" tvg-id="0d28293507d0e4f0f67ed17b0bff65a4" tvg-chno="4",Cuatro
+http://79.117.14.97:9981/stream/channelid/891889677?profile=pass
+#EXTINF:-1 logo="http://ahm.red/tdt/logos/Telecinco.png" tvg-id="bf55102a9b2bd5e07e9353fb05495046" tvg-chno="5",Telecinco
+http://79.117.14.97:9981/stream/channelid/705713599?profile=pass
+#EXTINF:-1 logo="http://ahm.red/tdt/logos/Telecinco.png" tvg-id="5df7e231a755b5404c39cb90247d5d44" tvg-chno="5",Telecinco
+http://79.117.14.97:9981/stream/channelid/836958045?profile=pass
+#EXTINF:-1 logo="http://ahm.red/tdt/logos/laSexta.png" tvg-id="6dd2c8c4e43a17710632ee8976f9cd97" tvg-chno="6",laSexta
+http://79.117.14.97:9981/stream/channelid/1154011757?profile=pass
+#EXTINF:-1 logo="http://ahm.red/tdt/logos/laSexta.png" tvg-id="00330de52b0fd40b876dcec127396126" tvg-chno="6",laSexta
+http://79.117.14.97:9981/stream/channelid/1695363840?profile=pass
+#EXTINF:-1 logo="http://ahm.red/tdt/logos/24h.png" tvg-id="5a0464f0f7bf5497edb17db493be77dc" tvg-chno="7",24h
+http://79.117.14.97:9981/stream/channelid/1885602906?profile=pass
+#EXTINF:-1 logo="http://ahm.red/tdt/logos/Paramount%20Network.png" tvg-id="9d300c7681670433df07e5a0cd49dde4" tvg-chno="8",Paramount Network
+http://79.117.14.97:9981/stream/channelid/1980510365?profile=pass
+#EXTINF:-1 logo="http://ahm.red/tdt/logos/Neox.png" tvg-id="25fdea9f3d40fb14f7fe1cc41f4b856b" tvg-chno="10",Neox
+http://79.117.14.97:9981/stream/channelid/535493925?profile=pass
+#EXTINF:-1 logo="http://ahm.red/tdt/logos/Mega.png" tvg-id="083847a9120fb62f95cb38d570734407" tvg-chno="11",Mega
+http://79.117.14.97:9981/stream/channelid/692533256?profile=pass
+#EXTINF:-1 logo="http://ahm.red/tdt/logos/Nova.png" tvg-id="e0f6131b790ebddf6cf9db8f3d8c6cd3" tvg-chno="12",Nova
+http://79.117.14.97:9981/stream/channelid/454293216?profile=pass
+#EXTINF:-1 logo="http://ahm.red/tdt/logos/DMAX.png" tvg-id="518714e824d1ef645d617770db6e7529" tvg-chno="13",DMAX
+http://79.117.14.97:9981/stream/channelid/1746175825?profile=pass
+#EXTINF:-1 logo="http://ahm.red/tdt/logos/TEN.png" tvg-id="153b7275fb6e5f60fa32774fb00b70ea" tvg-chno="14",TEN
+http://79.117.14.97:9981/stream/channelid/1970420501?profile=pass
+#EXTINF:-1 logo="http://ahm.red/tdt/logos/Divinity.png" tvg-id="c8e672869b90749143238e066bf72149" tvg-chno="15",Divinity
+http://79.117.14.97:9981/stream/channelid/108193480?profile=pass
+#EXTINF:-1 logo="http://ahm.red/tdt/logos/BeMad%20tv.png" tvg-id="eca72c82f3f1e70645ed065271c33c4c" tvg-chno="16",BeMad tv
+http://79.117.14.97:9981/stream/channelid/36481004?profile=pass
+#EXTINF:-1 logo="http://ahm.red/tdt/logos/Disney%20Channel.png" tvg-id="a5fec04942371fe440769fab0ad1199e" tvg-chno="17",Disney Channel
+http://79.117.14.97:9981/stream/channelid/1237384869?profile=pass
+#EXTINF:-1 logo="http://ahm.red/tdt/logos/Clan.png" tvg-id="a37dfc49ccdb2c0a5203434a7eaf802b" tvg-chno="18",Clan
+http://79.117.14.97:9981/stream/channelid/1241284003?profile=pass
+#EXTINF:-1 logo="http://ahm.red/tdt/logos/Energy.png" tvg-id="0e9774d301771580131a57caf5888414" tvg-chno="19",Energy
+http://79.117.14.97:9981/stream/channelid/1400149774?profile=pass
+#EXTINF:-1 logo="http://ahm.red/tdt/logos/Tdp.png" tvg-id="b07885d68fed10840c58bc4b917a2693" tvg-chno="20",Tdp
+http://79.117.14.97:9981/stream/channelid/1451587760?profile=pass
+#EXTINF:-1 logo="http://ahm.red/tdt/logos/Boing.png" tvg-id="3a6b3e591b06650a2477d4979603fb17" tvg-chno="21",Boing
+http://79.117.14.97:9981/stream/channelid/1497262906?profile=pass
+#EXTINF:-1 logo="http://ahm.red/tdt/logos/DKISS.png" tvg-id="ca5d4d706ce7041527097594295f224c" tvg-chno="22",DKISS
+http://79.117.14.97:9981/stream/channelid/1884118474?profile=pass
+#EXTINF:-1 logo="http://ahm.red/tdt/logos/Atreseries.png" tvg-id="5e643f7eee1dd3c1e3c4d1834689602d" tvg-chno="23",Atreseries
+http://79.117.14.97:9981/stream/channelid/2118083678?profile=pass
+#EXTINF:-1 logo="http://ahm.red/tdt/logos/FDF.png" tvg-id="304ddd9199a21c937ed0e7885b21097e" tvg-chno="24",FDF
+http://79.117.14.97:9981/stream/channelid/299715888?profile=pass
+#EXTINF:-1 logo="http://ahm.red/tdt/logos/BOM.png" tvg-id="8fa5c7849b7690dcaade79efebce16ad" tvg-chno="25",BOM
+http://79.117.14.97:9981/stream/channelid/80192911?profile=pass
