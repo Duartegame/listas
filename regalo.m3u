@@ -48,6 +48,26 @@ http://190.83.2.172:6001/stream/channelid/714354953?profile=pass
 #EXTINF:-1 tvg-logo="http://190.83.2.172:6001/imagecache/23" tvg-id="7243bb4c46279972a8022c4a28c1a8db",VIDEOROLA SD
 http://190.83.2.172:6001/stream/channelid/1287340914?profile=pass
 
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://88.22.188.138:9981/imagecache/2" tvg-id="1b1d87d6ca9a62935a5248abe74919e4" tvg-chno="1",La 1
+http://88.22.188.138:9981/stream/channelid/1451695387?profile=pass
+#EXTINF:-1 tvg-logo="http://88.22.188.138:9981/imagecache/4" tvg-id="2b20d63cac6b2cec49ef72348691888d" tvg-chno="2",La 2
+http://88.22.188.138:9981/stream/channelid/1020665899?profile=pass
+#EXTINF:-1 tvg-logo="http://88.22.188.138:9981/imagecache/7" tvg-id="6ae66956672519694068cf46206f0fcc" tvg-chno="3",Antena 3
+http://88.22.188.138:9981/stream/channelid/1449780842?profile=pass
+#EXTINF:-1 tvg-logo="http://88.22.188.138:9981/imagecache/9" tvg-id="d03dfa56483e81a12945482476e95d0c" tvg-chno="4",Cuatro
+http://88.22.188.138:9981/stream/channelid/1459240400?profile=pass
+#EXTINF:-1 tvg-logo="http://88.22.188.138:9981/imagecache/1" tvg-id="1613ca63c398cf34132219c52825ddb6" tvg-chno="5",Telecinco
+http://88.22.188.138:9981/stream/channelid/1674187542?profile=pass
+#EXTINF:-1 tvg-logo="http://88.22.188.138:9981/imagecache/8" tvg-id="a680873b9f64db308f6c37e82875e6b9" tvg-chno="6",La Sexta
+http://88.22.188.138:9981/stream/channelid/998736038?profile=pass
+#EXTINF:-1 tvg-logo="http://88.22.188.138:9981/imagecache/5" tvg-id="40dc45e6f7a56d52a9092aa41c7dbd8a" tvg-chno="7",Gol Play
+http://88.22.188.138:9981/stream/channelid/1715854400?profile=pass
+#EXTINF:-1 tvg-logo="http://88.22.188.138:9981/imagecache/3" tvg-id="24ce0fef1c956d4616c729db924802ca" tvg-chno="8",Neox
+http://88.22.188.138:9981/stream/channelid/1863306788?profile=pass
+#EXTINF:-1 tvg-logo="http://88.22.188.138:9981/imagecache/6" tvg-id="5aa8949bd1a3d4ffdcc6698287b5cb97" tvg-chno="9",Ã€ Punt
+http://88.22.188.138:9981/stream/channelid/462727258?profile=pass
+
 
 #EXTM3U
 #EXTINF:-1 logo="http://ahm.red/tdt/logos/Clan.png" tvg-id="7f73f5891f1da2e4d12821c6826fc4cb",24h HD
