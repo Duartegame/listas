@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1,36 TV HUACHO
-http://38.183.182.166:8000/play/a0xi/index.m3u8
+#EXTINF:-1,36 MOVISTAR SPORTS
+http://38.199.6.1:17001/play/a05j/index.m3u8
 #EXTINF:-1,A&E HD
 http://38.183.182.166:8000/play/a0va/index.m3u8
 #EXTINF:-1,AGRO TV CUSCO- LINK
