@@ -1,13 +1,13 @@
-#EXTINF:-1,13 Max ar
-http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
-#EXTINF:-1,5TV ar
-http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
+#EXTINF:-1,13 Canal 6 CR
+https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1,Azteca Guate
+http://172.233.186.192:8080/hls/0/stream.m3u8
 #EXTINF:-1,Canal 5 ar
 https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
 #EXTINF:-1,Canal 7 Jujuy ar
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
-#EXTINF:-1,Canal10 mx
-http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:-1,A+ Guate
+http://172.233.186.192:8081/hls/stream.m3u8
 #EXTINF:-1,Estrella NW mx
 https://estrella-news-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1,Estrella mx
