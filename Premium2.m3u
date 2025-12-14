@@ -1,328 +1,59 @@
+#EXTM3U
+#EXTINF:-1,TNT Sports
+http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-ch26.playlist.m3u8
+#EXTINF:-1,TyC Sports
+http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-ch32.playlist.m3u8
+#EXTINF:-1,Fox Sports
+http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-ch16.playlist.m3u8
+#EXTINF:-1,Fox Sports 2
+http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-ch30.playlist.m3u8
+#EXTINF:-1,Fox Sports 3
+http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-ch31.playlist.m3u8
+#EXTINF:-1,Fox Sports Premium
+http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-ch42.playlist.m3u8
+#EXTINF:-1,ESPN
+http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-ch9.playlist.m3u8
+#EXTINF:-1,ESPN 2
+http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-ch28.playlist.m3u8
+#EXTINF:-1,ESPN 3
+http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-ch29.playlist.m3u8
 #EXTINF:-1,Los Simpson 24hs
 http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/online-24-7.playlist.m3u8
 #EXTINF:-1,Telefe
 http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/telefe.playlist.m3u8
 #EXTINF:-1,El Trece
 http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/eltrece.playlist.m3u8
-#EXTINF:-1,TV Pública
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/tvpublica.playlist.m3u8
-#EXTINF:-1,América TV
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/americatv.playlist.m3u8
-#EXTINF:-1,TN
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/tn.playlist.m3u8
-#EXTINF:-1,Canal Rural
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/rural.playlist.m3u8
-#EXTINF:-1,Argentinísima
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/argentinisima.playlist.m3u8
-#EXTINF:-1,DeporTV
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/deportv.playlist.m3u8
-#EXTINF:-1,Canal de la Ciudad
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/canalciud.playlist.m3u8
-#EXTINF:-1,C5N
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/c5n.playlist.m3u8
-#EXTINF:-1,Crónica TV
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/CronicaTv.playlist.m3u8
-#EXTINF:-1,A24
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/a24.playlist.m3u8
-#EXTINF:-1,Canal 7 Mza
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/canal7mza.playlist.m3u8
-#EXTINF:-1,La Nación+
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/lntv.playlist.m3u8
-#EXTINF:-1,Canal 26
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/c26.playlist.m3u8
-#EXTINF:-1,Olga TV
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/Olga.playlist.m3u8
-#EXTINF:-1,Luzu TV
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/Luzu.playlist.m3u8
-#EXTINF:-1,Neura Media
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/NeuraM.playlist.m3u8
-#EXTINF:-1,TECtv
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/tectv.playlist.m3u8
-#EXTINF:-1,Telemax
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/telemax.playlist.m3u8
-#EXTINF:-1,Multivisión
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/Multivision.playlist.m3u8
-#EXTINF:-1,Ciudad Magazine
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/ciudadmagazine.playlist.m3u8
-#EXTINF:-1,CNN Español
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/CNNesp.playlist.m3u8
-#EXTINF:-1,24 Horas
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/24horas.playlist.m3u8
-#EXTINF:-1,Canal Net
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/CanalNet.playlist.m3u8
-#EXTINF:-1,Canal 9 Televida
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/canal9televida.playlist.m3u8
-#EXTINF:-1,Euronews
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/euronews.playlist.m3u8
-#EXTINF:-1,Booba TV
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/BoobaTV.playlist.m3u8
-#EXTINF:-1,Talking Ginger
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/TalkingGinger.playlist.m3u8
-#EXTINF:-1,Peppa Pig
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/pepapig.playlist.m3u8
-#EXTINF:-1,iPanda
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/ipanda.playlist.m3u8
-#EXTINF:-1,NASA TV
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/nasa.playlist.m3u8
-#EXTINF:-1,SEO Bird
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/SEOBird.playlist.m3u8
-#EXTINF:-1,Explore
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/explore.playlist.m3u8
-#EXTINF:-1,Safari Live
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/safariliv.playlist.m3u8
-#EXTINF:-1,Zoo TV
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/zootv.playlist.m3u8
-#EXTINF:-1,OK FM Arroyito
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/okfmarroyito.playlist.m3u8
-#EXTINF:-1,Telediario Digital
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/telediariodigital.playlist.m3u8
-#EXTINF:-1,Canal 10 SRT
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/canal10srt.playlist.m3u8
-#EXTINF:-1,Córdoba Telefe
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/cordobatelefe.playlist.m3u8
-#EXTINF:-1,Canal 10 CBA
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/canal10cba.playlist.m3u8
-#EXTINF:-1,Freyre TV
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/freyre.playlist.m3u8
-#EXTINF:-1,WOW TV
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/wowtv.playlist.m3u8
-#EXTINF:-1,El Doce
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/eldoce.playlist.m3u8
-#EXTINF:-1,T5 Satelital
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/t5satelital.playlist.m3u8
-#EXTINF:-1,TeleSol San Juan
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/telesolsanjuan.playlist.m3u8
-#EXTINF:-1,Canal 13 Santa Fe
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/13SantaFe.playlist.m3u8
-#EXTINF:-1,Nueve Litoral
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/nuevelitoral.playlist.m3u8
-#EXTINF:-1,Canal 5
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/canal5.playlist.m3u8
-#EXTINF:-1,10 Mar del Plata
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/10MardelPlata.playlist.m3u8
-#EXTINF:-1,Canal 8 Mar del Plata
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/canal8marplt.playlist.m3u8
-#EXTINF:-1,Silver Channel
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/silverchannel.playlist.m3u8
-#EXTINF:-1,Canal 7 Jujuy
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/canal7jujuy.playlist.m3u8
-#EXTINF:-1,Canal 4 Jujuy
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/c4jujuy.playlist.m3u8
-#EXTINF:-1,Norte Visión
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/nortevision.playlist.m3u8
-#EXTINF:-1,RTN Neuquén
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/RTNNeuquen.playlist.m3u8
-#EXTINF:-1,10 Salta
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/10salta.playlist.m3u8
-#EXTINF:-1,Canal 7 Salta
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/canal7salta.playlist.m3u8
-#EXTINF:-1,Canal 7 Neuquén
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/c7nq.playlist.m3u8
-#EXTINF:-1,247 Neuquén
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/cn247.playlist.m3u8
-#EXTINF:-1,10 Río Negro
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/10rionegro.playlist.m3u8
-#EXTINF:-1,Telpin HD
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/telepin.playlist.m3u8
-#EXTINF:-1,12 Misiones
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/docemisiones.playlist.m3u8
-#EXTINF:-1,Ciudad Chaco
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/ciudadchaco.playlist.m3u8
-#EXTINF:-1,Canal 8 San Juan
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/canal8sanjuan.playlist.m3u8
-#EXTINF:-1,Play TV
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/PlayTV.playlist.m3u8
-#EXTINF:-1,5RTV
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/5RTv.playlist.m3u8
-#EXTINF:-1,Link TV Canal
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/LinkTvCanal.playlist.m3u8
-#EXTINF:-1,Canal 4 San Juan
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/4sanjuan.playlist.m3u8
-#EXTINF:-1,Fashion TV
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/fashiontv.playlist.m3u8
-#EXTINF:-1,Red Bull TV
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/RedBull.playlist.m3u8
-#EXTINF:-1,Hipódromo Camarero
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/hipodromocamarero.playlist.m3u8
-#EXTINF:-1,Extrema TV
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/Extrema.playlist.m3u8
-#EXTINF:-1,Vorterix
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/vorterix.playlist.m3u8
-#EXTINF:-1,RT
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/rttve.playlist.m3u8
-#EXTINF:-1,DW Latinoamérica
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/dwlat.playlist.m3u8
-#EXTINF:-1,VPI TV
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/VPItv.playlist.m3u8
-#EXTINF:-1,France 24
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/france24.playlist.m3u8
-#EXTINF:-1,Al Jazeera
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/alzazeera.playlist.m3u8
-#EXTINF:-1,Sky News
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/skynew.playlist.m3u8
-#EXTINF:-1,Excelsior
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/excelsior.playlist.m3u8
-#EXTINF:-1,Novo Tempo
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/novotempo.playlist.m3u8
-#EXTINF:-1,Nuevo Tiempo
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/nuevotiempo.playlist.m3u8
-#EXTINF:-1,El Pringlense
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/elpringlense.playlist.m3u8
-#EXTINF:-1,Ciudad Pringles
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/ciudadpringles.playlist.m3u8
-#EXTINF:-1,FM 106.3
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/fm1063.playlist.m3u8
-#EXTINF:-1,Aliento Visión
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/alientovision.playlist.m3u8
-#EXTINF:-1,EWTN
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/EWTN.playlist.m3u8
-#EXTINF:-1,Red Avenir
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/RedAvenir.playlist.m3u8
-#EXTINF:-1,Esperanza TV
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/EsperanzaTV.playlist.m3u8
-#EXTINF:-1,Orbe 21
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/canalorbe21.playlist.m3u8
-#EXTINF:-1,Canal Luz
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/canalluz.playlist.m3u8
-#EXTINF:-1,Comunión TV
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/ComunionTV.playlist.m3u8
-#EXTINF:-1,Radio María
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/radiomaria.playlist.m3u8
-#EXTINF:-1,La Coope 89.5
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/lacoope895.playlist.m3u8
-#EXTINF:-1,Del Sol FM La Francia
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/delsolfmlafrancia.playlist.m3u8
-#EXTINF:-1,Master 96.7
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/master967.playlist.m3u8
-#EXTINF:-1,Radio Urbana
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/RadioUrbana.playlist.m3u8
-#EXTINF:-1,10 Zapala
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/10Zapala.playlist.m3u8
-#EXTINF:-1,FM Power Max
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/fmpowermax.playlist.m3u8
-#EXTINF:-1,Soothing Relaxation
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/SoothingRelaxation.playlist.m3u8
-#EXTINF:-1,Portal Fox Mix
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/portalfoxmix.playlist.m3u8
-#EXTINF:-1,Retro TV
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/retro.playlist.m3u8
-#EXTINF:-1,Music Top
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/musictop.playlist.m3u8
-#EXTINF:-1,Chillhop Music
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/ChillhopMusic.playlist.m3u8
-#EXTINF:-1,Cafe Music BGM
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/CafeMusicBGM.playlist.m3u8
-#EXTINF:-1,College Music
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/collegemusic.playlist.m3u8
-#EXTINF:-1,Lofi Hip Hop
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/lofihiphop.playlist.m3u8
-#EXTINF:-1,América TV (local)
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-america.playlist.m3u8
-#EXTINF:-1,El Nueve
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-elnueve.playlist.m3u8
-#EXTINF:-1,Telefe (local)
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-telefe.playlist.m3u8
-#EXTINF:-1,El Trece (local)
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-eltrece.playlist.m3u8
-#EXTINF:-1,TV Pública (local)
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-tvp.playlist.m3u8
-#EXTINF:-1,C5N (local)
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-c5n.playlist.m3u8
-#EXTINF:-1,Crónica TV (local)
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-cronica.playlist.m3u8
-#EXTINF:-1,TN (local)
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-tn.playlist.m3u8
-#EXTINF:-1,La Nación+ (local)
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-ln.playlist.m3u8
-#EXTINF:-1,Adult Swim
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-adultwin.playlist.m3u8
-#EXTINF:-1,Cartoon Network
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-cartoon.playlist.m3u8
-#EXTINF:-1,Discovery Channel
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-disney.playlist.m3u8
-#EXTINF:-1,Disney Junior
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-disneyjunior.playlist.m3u8
-#EXTINF:-1,Loly Kids
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-lolykids.playlist.m3u8
-#EXTINF:-1,Tooncast
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-toonlat.playlist.m3u8
-#EXTINF:-1,ESPN Latinoamérica
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-espnlat.playlist.m3u8
-#EXTINF:-1,ESPN Argentina
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-espnar.playlist.m3u8
-#EXTINF:-1,ESPN 2 Argentina
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-espn2ar.playlist.m3u8
-#EXTINF:-1,ESPN 2 Latinoamérica
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-espn2lat.playlist.m3u8
-#EXTINF:-1,ESPN 3 Latinoamérica
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-espn3lat.playlist.m3u8
-#EXTINF:-1,ESPN 3 Argentina
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-espn3ar.playlist.m3u8
-#EXTINF:-1,ESPN 4 Latinoamérica
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-espn4lat.playlist.m3u8
-#EXTINF:-1,ESPN 5 Latinoamérica
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-espn5lat.playlist.m3u8
-#EXTINF:-1,ESPN 6 Latinoamérica
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-espn6lat.playlist.m3u8
-#EXTINF:-1,ESPN 7
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-espn7lt.playlist.m3u8
-#EXTINF:-1,ESPN Premium Argentina
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-espnpremar.playlist.m3u8
-#EXTINF:-1,ESPN Premium Latinoamérica
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-espnpremlat.playlist.m3u8
-#EXTINF:-1,Fox Sports 1 Argentina
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-fox1ar.playlist.m3u8
-#EXTINF:-1,Fox Sports 2 Argentina
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-fox2ar.playlist.m3u8
-#EXTINF:-1,Fox Sports 3 Argentina
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-fox3ar.playlist.m3u8
-#EXTINF:-1,TyC Sports Argentina
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-tycar.playlist.m3u8
-#EXTINF:-1,TNT Sports Argentina
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-tnt-sporar.playlist.m3u8
-#EXTINF:-1,TNT Sports Premium
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-tnt-prem.playlist.m3u8
-#EXTINF:-1,WIN Sports
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-win-s.playlist.m3u8
-#EXTINF:-1,AXN
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-axn.playlist.m3u8
-#EXTINF:-1,Cinecanal
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-cinecanal.playlist.m3u8
-#EXTINF:-1,FX
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-fx.playlist.m3u8
-#EXTINF:-1,Golden
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-golden.playlist.m3u8
-#EXTINF:-1,HBO Latinoamérica
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-hbolat.playlist.m3u8
-#EXTINF:-1,HBO 2
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-hbo2.playlist.m3u8
-#EXTINF:-1,HBO Family
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-hbofami.playlist.m3u8
-#EXTINF:-1,HBO Xtreme
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-hboxtrem.playlist.m3u8
-#EXTINF:-1,HBO Signature
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-hbosigna.playlist.m3u8
-#EXTINF:-1,HBO Pop Latinoamérica
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-hbopoplat.playlist.m3u8
-#EXTINF:-1,HBO Plus
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-hboplus.playlist.m3u8
-#EXTINF:-1,HBO Mundi
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-hbomundi.playlist.m3u8
-#EXTINF:-1,Sony Channel
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-sony.playlist.m3u8
-#EXTINF:-1,TNT Series
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-tnt-series.playlist.m3u8
+#EXTINF:-1,Sony
+http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-ch6.playlist.m3u8
+#EXTINF:-1,Space
+http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-ch1.playlist.m3u8
 #EXTINF:-1,Universal Channel
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-universal.playlist.m3u8
-#EXTINF:-1,Warner Channel
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-warner.playlist.m3u8
-#EXTINF:-1,El Gourmet
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-gourmet.playlist.m3u8
-#EXTINF:-1,Food Channel
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-food.playlist.m3u8
-#EXTINF:-1,Animal Planet
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-animalplanet.playlist.m3u8
+http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-ch10.playlist.m3u8
+#EXTINF:-1,AXN
+http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-ch4.playlist.m3u8
+#EXTINF:-1,Arte y Entretenimiento (AyE)
+http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-ch3.playlist.m3u8
+#EXTINF:-1,Star Channel
+http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-ch21.playlist.m3u8
+#EXTINF:-1,HBO Family
+http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-ch22.playlist.m3u8
+#EXTINF:-1,HBO 2
+http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-ch20.playlist.m3u8
+#EXTINF:-1,Paramount
+http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-ch19.playlist.m3u8
+#EXTINF:-1,H&H
+http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-ch23.playlist.m3u8
 #EXTINF:-1,History Channel
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-historychan.playlist.m3u8
-#EXTINF:-1,History 2
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-history2.playlist.m3u8
+http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-ch7.playlist.m3u8
+#EXTINF:-1,Disney Channel
+http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-ch2.playlist.m3u8
+#EXTINF:-1,National Geographic
+http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-ch5.playlist.m3u8
+#EXTINF:-1,Discovery Channel
+http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-ch15.playlist.m3u8
+#EXTINF:-1,Cartoon Network
+http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-ch12.playlist.m3u8
+#EXTINF:-1,Canal 3 Rosario
+http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-canal3rosario.playlist.m3u8
+#EXTINF:-1,TV Pública
+http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-ch116.playlist.m3u8
