@@ -1,4 +1,10 @@
 #EXTM3U
+
+#EXTINF:-1 group-title="General" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/ADN-40-en-vivo-Online.png?w=1392&ssl=1",ADN 40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.UTVo4PSyiPd9sEBwuoD-aQHaHK?rs=1&pid=ImgDetMain&o=7&rm=3",Milenium
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+
 #EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/7ecgGIG.png",8NTV (1080p)
 https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/5nYjRlb.png",Alcance TV (720p)
