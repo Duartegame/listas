@@ -6,6 +6,10 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1 group-title="Generalistas" tvg-logo="https://pbs.twimg.com/profile_images/2008842210414915584/zIp_go25_200x200.jpg",La 1
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
+#EXTINF:-1 group-title="Religious" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.DHgxGUb5FQG4D8SFa5xCYwHaGI?w=3157&h=2611&rs=1&pid=ImgDetMain&o=7&rm=3",Amigos TV Chiquimula (480p)
+http://172.233.186.192:8081/hls/0/stream.m3u8
+#EXTINF:-1 group-title="Religious" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Azteca_Guate_2017.png",Amigos TV Chiquimula (480p)
+http://172.233.186.192:8080/hls/0/stream.m3u8
 #EXTINF:-1 group-title="Generalistas" tvg-logo="https://pbs.twimg.com/profile_images/2008842210414915584/zIp_go25_200x200.jpg",La 1
 https://d2jws8nf49xuk0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ikffw175xm6u/La1ES.m3u8
 #EXTINF:-1 group-title="Generalistas" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kqgHWySi5xprs1VFCNCX0IKNT8yXBLZC43JMoB8j0JUto=s200",La 2
