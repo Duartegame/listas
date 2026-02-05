@@ -1,3 +1,84 @@
+
+ http://mgoplus.org:2086/get.php?username=fermin.ruedavalle2508&password=12345678.&type=m3u_plus
+
+http://mgoplus.org:2086/get.php?username=luis.llasaca2006&password=12345678.&type=m3u_plus
+
+http://mgoplus.org:2086/get.php?username=marlene.sarango0406&password=12345678.&type=m3u_plus
+
+http://mgoplus.org:2086/get.php?username=Intertv189&password=12345678&type=m3u_plus
+
+http://mgoplus.org:2086/get.php?username=User.E.0133&password=Jvc.0133.E&type=m3u_plus
+
+http://mgoplus.org:2086/get.php?username=ronny.pozomorillo0608&password=12345678.&type=m3u_plus
+
+http://mgoplus.org:2086/get.php?username=CON021094&password=021094&type=m3u_plus
+
+http://mgoplus.org:2086/get.php?username=10002624&password=12345678&type=m3u_plus
+
+http://mgoplus.org:2086/get.php?username=Intertv169&password=12345678&type=m3u_plus
+
+http://mgoplus.org:2086/get.php?username=00002053&password=12345678&type=m3u_plus
+
+http://mgoplus.org:2086/get.php?username=00000064&password=12345678&type=m3u_plus
+
+http://mgoplus.org:2086/get.php?username=10006706&password=12345678&type=m3u_plus
+
+http://mgoplus.org:2086/get.php?username=0000781&password=12345678&type=m3u_plus
+
+http://mgoplus.org:2086/get.php?username=00006421&password=12345678&type=m3u_plus
+
+http://mgoplus.org:2086/get.php?username=00001129&password=12345678&type=m3u_plus
+
+http://mgoplus.org:2086/get.php?username=Intertv230&password=12345678&type=m3u_plus
+
+http://mgoplus.org:2086/get.php?username=00006550&password=12345678&type=m3u_plus
+
+http://mgoplus.org:2086/get.php?username=00001008&password=12345678&type=m3u_plus
+
+http://mgoplus.org:2086/get.php?username=Intertv36&password=123456&type=m3u_plus
+
+http://mgoplus.org:2086/get.php?username=ck.john&password=12345678.&type=m3u_plus
+
+http://mgoplus.org:2086/get.php?username=User.E.0208&password=Jre.0208.E&type=m3u_plus
+
+http://mgoplus.org:2086/get.php?username=denny.zamora1208&password=12345678.&type=m3u_plus
+
+http://mgoplus.org:2086/get.php?username=FALCONNET6.JP&password=123456&type=m3u_plus
+
+http://mgoplus.org:2086/get.php?username=Intertv196&password=12345678&type=m3u_plus
+
+http://mgoplus.org:2086/get.php?username=Intertv123&password=123456&type=m3u_plus
+
+http://mgoplus.org:2086/get.php?username=CON014908&password=14908&type=m3u_plus
+
+http://mgoplus.org:2086/get.php?username=CON021725&password=ON021725&type=m3u_plus
+
+http://mgoplus.org:2086/get.php?username=User.E.0094&password=Rma.0094.E&type=m3u_plus
+
+http://mgoplus.org:2086/get.php?username=Zhunio_JIMA&password=octubre2024&type=m3u_plus
+
+http://mgoplus.org:2086/get.php?username=Intertv33&password=123456&type=m3u_plus
+
+http://mgoplus.org:2086/get.php?username=User.E.0176&password=Ppl.0176.E&type=m3u_plus
+
+http://mgoplus.org:2086/get.php?username=00007664&password=12345678&type=m3u_plus
+
+http://mgoplus.org:2086/get.php?username=RUBENQ.JP&password=123456&type=m3u_plus
+
+http://mgoplus.org:2086/get.php?username=CanalesVen&password=NF8sq6nCEq&type=m3u_plus
+
+http://mgoplus.org:2086/get.php?username=1a2&password=1a2&type=m3u_plus
+
+http://mgoplus.org:2086/get.php?username=Intertv39&password=123456&type=m3u_plus
+
+http://mgoplus.org:2086/get.php?username=00006949&password=12345678&type=m3u_plus
+
+http://mgoplus.org:2086/get.php?username=Intertv45&password=123456&type=m3u_plus
+
+
+
+
+
 http://panel.myiptvserver.com:25461/get.php?username=Tony.Melkonian1&password=t2018&type=m3u
 
 http://smartntv.pro:25461/get.php?username=ALEN-SVE-1&password=m9BTs59RN58y&type=m3u
@@ -88,8 +169,6 @@ http://vipgerretger.top:8080/get.php?username=VIP011191731237624128&password=739
 
 http://vipgerretger.top:8080/get.php?username=VIP01291755248523551&password=9feb67bc364a&type=m3u
 
-http://vipgerretger.top:8080/get.php?username=VIP016031738681428328&password=4488f8cb174e&type=m3u
-
 http://vipgerretger.top:8080/get.php?username=VIP016491736700752300&password=55350c8d969d&type=m3u
 
 http://vipgerretger.top:8080/get.php?username=VIP0112174075681516&password=81751117732162&type=m3u
@@ -149,8 +228,6 @@ http://redworld.pro:8880/get.php?username=Jorge.Orre&password=L6Rc6WnsGTbn&type=
 http://redworld.pro:8880/get.php?username=Yensi&password=LTZCYUZRqDC5&type=m3u_plus
 
 http://redworld.pro:8880/get.php?username=PebRnV87MJhn&password=XPgex4XmutJe&type=m3u_plus
-
-http://redworld.pro:8880/get.php?username=Playtvpremium@938&password=99823NafHbm28&type=m3u_plus
 
 http://redworld.pro:8880/get.php?username=Mahaduarasy&password=LUy7jKy49kyN&type=m3u_plus
 
@@ -326,11 +403,10 @@ http://matrivagoweb.xyz:2095/get.php?username=2616733&password=123456&type=m3u_p
 
 http://matrivagoweb.xyz:2095/get.php?username=115375&password=123456&type=m3u_plus
 
-http://xpaneltv.com:8080/get.php?username=Maryre60&password=4146267460&type=m3u_plus
-
 http://tvpromas.com:2082/get.php?username=Carlosvillota&password=433nhvc&type=m3u_plus
 
 http://tvpromas.com:2082/get.php?username=56958629057vecino&password=010320iptv&type=m3u_plus
+
 
 
 
@@ -473,8 +549,6 @@ http://vipkendrake.top:8080/get.php?username=VIP011561741016136362&password=2154
 
 http://vipkendrake.top:8080/get.php?username=VIP019881739027320332&password=c069055b514d&type=m3u_plus
 
-http://vipkendrake.top:8080/get.php?username=VIP018681738521131327&password=0da15f4a1e65&type=m3u_plus
-
 http://vipkendrake.top:8080/get.php?username=VIP016881762594112102&password=4ca524b457eb&type=m3u_plus
 
 http://live.proyectoxpro.com:8080/get.php?username=lolitamos1&password=6x9MUpKxLK&type=m3u_plus
@@ -539,8 +613,6 @@ http://live.proyectoxpro.com:8080/get.php?username=JohnCamposIPTVCLUB&password=V
 
 http://live.proyectoxpro.com:8080/get.php?username=Mosta33172&password=Tostito622&type=m3u_plus
 
-http://live.proyectoxpro.com:8080/get.php?username=EliasTor2211&password=Dt41wYF5fx&type=m3u_plus
-
 http://live.proyectoxpro.com:8080/get.php?username=ECUIO00001&password=IO00001TEMP&type=m3u_plus
 
 http://live.proyectoxpro.com:8080/get.php?username=SBoni6861&password=sboni6861&type=m3u_plus
@@ -550,8 +622,6 @@ http://live.proyectoxpro.com:8080/get.php?username=888Latin20&password=fonhsTVZV
 http://live.proyectoxpro.com:8080/get.php?username=hernandez727&password=4d264811a9d2&type=m3u_plus
 
 http://live.proyectoxpro.com:8080/get.php?username=fabbymartinez951&password=t2aes2vQVY&type=m3u_plus
-
-http://live.proyectoxpro.com:8080/get.php?username=zJ59CKmg9r&password=63ecffab1e67&type=m3u_plus
 
 http://live.proyectoxpro.com:8080/get.php?username=marcom29&password=pHzuf4SuX2&type=m3u_plus
 
@@ -598,6 +668,7 @@ http://live.proyectoxpro.com:8080/get.php?username=giusmardie&password=7a9yV8KJF
 http://live.proyectoxpro.com:8080/get.php?username=GonzalezGualberto&password=v2x5aH8p5N&type=m3u_plus
 
 http://live.proyectoxpro.com:8080/get.php?username=montenegrojose1&password=zRQzadJbu8&type=m3u_plus
+
 
 
 
@@ -675,10 +746,6 @@ http://tv.diablotv.net:8080/get.php?username=lannyusa&password=Q2ERgSYGvR&type=m
 http://tv.diablotv.net:8080/get.php?username=Michelmurcio11&password=ge3A9hbYQu&type=m3u_plus
 
 http://tv.diablotv.net:8080/get.php?username=Michelmurcio11&password=ge3A9hbYQu&type=m3u_plus&output=m3u8
-
-http://tv.diablotv.net:8080/get.php?username=GuillermoCornejo198&password=b74c699ff366&type=m3u_plus
-
-http://tv.diablotv.net:8080/get.php?username=GuillermoCornejo198&password=b74c699ff366&type=m3u_plus&output=m3u8
 
 http://tv.diablotv.net:8080/get.php?username=YOwUqqZLqa&password=b4cdd8a5c5f6&type=m3u_plus
 
@@ -1186,8 +1253,6 @@ http://vipneeene.top:8080/get.php?username=VIP0182170393258444&password=61703932
 
 http://vipneeene.top:8080/get.php?username=VIP013791744272390384&password=0c414a9db73e&type=m3u_plus&output=m3u8
 
-http://vipneeene.top:8080/get.php?username=VIP0113172679126129&password=51732389530751&type=m3u_plus&output=m3u8
-
 http://vipneeene.top:8080/get.php?username=VIP011391751039396500&password=ed444b000faa&type=m3u_plus&output=m3u8
 
 http://vipneeene.top:8080/get.php?username=VIP016801731572621260&password=53ba9e59e315&type=m3u_plus&output=m3u8
@@ -1195,8 +1260,6 @@ http://vipneeene.top:8080/get.php?username=VIP016801731572621260&password=53ba9e
 http://vipneeene.top:8080/get.php?username=VIP011791737745852317&password=376656a9fd08&type=m3u_plus&output=m3u8
 
 http://vipneeene.top:8080/get.php?username=VIP018771750334860493&password=91b895d9d119&type=m3u_plus&output=m3u8
-
-http://vipneeene.top:8080/get.php?username=VIP016031738681428328&password=4488f8cb174e&type=m3u_plus&output=m3u8
 
 http://vipneeene.top:8080/get.php?username=VIP016181729343490112&password=3ce81b374ed0&type=m3u_plus&output=m3u8
 
@@ -1213,8 +1276,6 @@ http://vipneeene.top:8080/get.php?username=VIP01482172439414694&password=ca76cdd
 http://vipneeene.top:8080/get.php?username=VIP0127173807353538&password=31739198932477&type=m3u_plus&output=m3u8
 
 http://vipneeene.top:8080/get.php?username=VIP01831699941619001&password=2e52c3026ecd&type=m3u_plus&output=m3u8
-
-http://vipneeene.top:8080/get.php?username=JSDGuUXTZ7Jy&password=Z5bzZckz3KDE&type=m3u_plus&output=m3u8
 
 http://vipneeene.top:8080/get.php?username=VIP013411740672471355&password=e8ca48c24bc0&type=m3u_plus&output=m3u8
 
@@ -1246,13 +1307,12 @@ http://tvpremium.pro:80/get.php?username=AbyHernandez%40&password=Aby2023&type=m
 
 http://tv.streamid.tv:8080/get.php?username=piazamorano&password=G94UXRqyxMFw&type=m3u_plus
 
-http://totalplay.site:8080/get.php?username=dramixto01&password=CxUbEYuUDP&type=m3u_plus
-
 http://live.stablechannels.tv:80/get.php?username=qvseafaq&password=8Yrw06pe8Q&type=m3u_plus
 
 http://canal-pro.xyz:8080/get.php?username=9531183tv&password=9opp9s&type=m3u_plus
 
 http://canal-pro.xyz:8080/get.php?username=976336044tv&password=2h889b&type=m3u_plus
+
 
 
 
@@ -1323,8 +1383,6 @@ http://tv.diablotv.net:8080/get.php?username=Ironpilot122&password=D3KJHkq64e&ty
 
 http://tv.diablotv.net:8080/get.php?username=solanolaura1&password=1fe1810482d9&type=m3u_plus
 
-http://tv.diablotv.net:8080/get.php?username=EliasTor2211&password=Dt41wYF5fx&type=m3u_plus
-
 http://tv.diablotv.net:8080/get.php?username=renzoq&password=fc4a920f7318&type=m3u_plus
 
 http://tv.diablotv.net:8080/get.php?username=MigPin06072021&password=vAD7d2w4nS&type=m3u_plus
@@ -1354,7 +1412,6 @@ http://canal-pro.xyz:8080/get.php?username=75192296&password=19042022&type=m3u_p
 http://canal-pro.xyz:8080/get.php?username=rolandomeza567894344&password=Z45678942456821M&type=m3u_plus
 
 http://tv.zapping.life:8080/get.php?username=POLLO23&password=7472d94acfe1&type=m3u_plus
-
 
 
 
@@ -1405,8 +1462,6 @@ http://canal-pro.xyz:8080/get.php?username=64786764tv&password=30ttb223&type=m3u
 
 http://canal-pro.xyz:8080/get.php?username=942622219tv&password=sw0702jhd&type=m3u_plus
 
-http://canal-pro.xyz:8080/get.php?username=68603527&password=G87GBhcezx65f&type=m3u_plus
-
 http://canal-pro.xyz:8080/get.php?username=972045401tv&password=LjJPRy1&type=m3u_plus
 
 http://canal-pro.xyz:8080/get.php?username=50722632&password=8bc9BX9BCSNC8&type=m3u_plus
@@ -1430,8 +1485,6 @@ http://canal-pro.xyz:8080/get.php?username=957836159tv&password=zphygvr&type=m3u
 http://canal-pro.xyz:8080/get.php?username=94842496tv1&password=9ss7rph&type=m3u_plus
 
 http://canal-pro.xyz:8080/get.php?username=z7mCjz4ksn7F&password=s2WhSvDpwMxN&type=m3u_plus
-
-http://canal-pro.xyz:8080/get.php?username=958510443tv&password=qof05s&type=m3u_plus
 
 http://canal-pro.xyz:8080/get.php?username=93weku76we34be67&password=72maxe529weda74&type=m3u_plus
 
@@ -1457,8 +1510,6 @@ http://canal-pro.xyz:8080/get.php?username=979080960tv&password=28phndur2&type=m
 
 http://canal-pro.xyz:8080/get.php?username=953833679tv&password=X8v8X6fDW&type=m3u_plus
 
-http://tv.diablotv.net:8080/get.php?username=r4f4e7ran9&password=c9d2e18726aa&type=m3u_plus
-
 http://canal-pro.xyz:8080/get.php?username=647439252&password=B81hD54ersd9&type=m3u_plus
 
 http://tv.diablotv.net:8080/get.php?username=andreinalarrazabal&password=f8a308483d1e&type=m3u_plus
@@ -1475,13 +1526,9 @@ http://canal-pro.xyz:8080/get.php?username=95405293&password=04032022&type=m3u_p
 
 http://tv.diablotv.net:8080/get.php?username=AxmarisDisla&password=LXWBtabvgZ&type=m3u_plus
 
-http://tv.zapping.life:8080/get.php?username=zJ59CKmg9r&password=63ecffab1e67&type=m3u_plus
-
 http://tv.zapping.life:8080/get.php?username=camiloa.riascos2&password=4mbB0npReZ&type=m3u_plus
 
 http://tv.zapping.life:8080/get.php?username=marcom29&password=pHzuf4SuX2&type=m3u_plus
-
-http://tv.zapping.life:8080/get.php?username=Richardtv847&password=wjR2TtxYES&type=m3u_plus
 
 http://tv.zapping.life:8080/get.php?username=VanessaCastaneda284&password=cpbCeCrFA4&type=m3u_plus
 
@@ -1604,7 +1651,6 @@ http://redworld.pro:8880/get.php?username=yuditza9537344&password=82%4084829274&
 
 
 
-
 http://fastream.xyz:8080/get.php?username=93741122tv&password=YG65E646begUG87T&type=m3u_plus
 
 http://fastream.xyz:8080/get.php?username=946619311tv&password=90mi16&type=m3u_plus
@@ -1620,8 +1666,6 @@ http://fastream.xyz:8080/get.php?username=957349155tv&password=hgds9932&type=m3u
 http://fastream.xyz:8080/get.php?username=64786764tv&password=30ttb223&type=m3u_plus
 
 http://fastream.xyz:8080/get.php?username=56994551022wspzero&password=170821zero&type=m3u_plus
-
-http://fastream.xyz:8080/get.php?username=51902233&password=48euvu8h4e8&type=m3u_plus
 
 http://fastream.xyz:8080/get.php?username=968378728tv&password=wski8738&type=m3u_plus
 
@@ -1663,14 +1707,9 @@ http://canal-pro.xyz:8080/get.php?username=68486291tv&password=met527un43&type=m
 
 http://ultrapremium.cloud:8080/get.php?username=99924988&password=04042022&type=m3u_plus
 
-http://canal-pro.xyz:8080/get.php?username=963536312tv&password=9xxf95&type=m3u_plus
 
 
 
-
-http://vipketseyket.top:8080/get.php?username=VIP0113172679126129&password=51732389530751&type=m3u_plus
-
-http://vipketseyket.top:8080/get.php?username=VIP0113172679126129&password=51732389530751&type=m3u_plus&output=m3u8
 
 http://vipketseyket.top:8080/get.php?username=VIP018001737483551313&password=88f9735341d3&type=m3u_plus
 
@@ -1723,10 +1762,6 @@ http://vipketseyket.top:8080/get.php?username=VIP014291754845339544&password=11d
 http://vipketseyket.top:8080/get.php?username=VIP014741741791708368&password=dd3d1441349e&type=m3u_plus
 
 http://vipketseyket.top:8080/get.php?username=VIP014741741791708368&password=dd3d1441349e&type=m3u_plus&output=m3u8
-
-http://vipketseyket.top:8080/get.php?username=VIP013591738567943328&password=fea9ca333223&type=m3u_plus
-
-http://vipketseyket.top:8080/get.php?username=VIP013591738567943328&password=fea9ca333223&type=m3u_plus&output=m3u8
 
 http://esproapibb.top:8080/get.php?username=es3161740851533006&password=e22b64129a76&type=m3u_plus
 
@@ -1822,8 +1857,6 @@ http://vipunvfmkvw.top:8080/get.php?username=VIP014621755963469581&password=c75a
 
 http://vipunvfmkvw.top:8080/get.php?username=VIP019381745208757400&password=58b51a8fa44d&type=m3u_plus
 
-http://vipunvfmkvw.top:8080/get.php?username=VIP01461698904197001&password=31698904197877&type=m3u_plus
-
 http://esproutudd.top:8080/get.php?username=es8721757603667322&password=f39a249dda0f&type=m3u_plus
 
 http://vipsolur.xyz:8080/get.php?username=VIP01845172538571396&password=feabd2552d81&type=m3u_plus
@@ -1879,8 +1912,6 @@ http://tvpromas.com:2082/get.php?username=56952047966&password=130823zero&type=m
 http://tvpromas.com:2082/get.php?username=Juanarayasalinas&password=5dp6cuCeV5kd&type=m3u_plus
 
 http://tvpromas.com:2082/get.php?username=mjofre49&password=38992&type=m3u_plus
-
-http://tvpromas.com:2082/get.php?username=Edwin3103&password=Edwin31&type=m3u_plus
 
 http://tvpromas.com:2082/get.php?username=azcolom406&password=4963168350&type=m3u_plus
 
@@ -1958,8 +1989,6 @@ http://tvpromas.com:2082/get.php?username=Juanarayasalinas&password=5dp6cuCeV5kd
 
 http://tvpromas.com:2082/get.php?username=mjofre49&password=38992&type=m3u_plus&output=m3u8
 
-http://tvpromas.com:2082/get.php?username=Edwin3103&password=Edwin31&type=m3u_plus&output=m3u8
-
 http://tvpromas.com:2082/get.php?username=azcolom406&password=4963168350&type=m3u_plus&output=m3u8
 
 http://tvpromas.com:2082/get.php?username=56976896944&password=140220iptv&type=m3u_plus&output=m3u8
@@ -1981,8 +2010,6 @@ http://tvpromas.com:2082/get.php?username=patricioarroyoolivares&password=s2t0Ej
 http://tvpromas.com:2082/get.php?username=stkluza&password=3721&type=m3u_plus&output=m3u8
 
 http://tvpromas.com:2082/get.php?username=stkalduna&password=8429&type=m3u_plus&output=m3u8
-
-http://tvpromas.com:2082/get.php?username=56981203900wspzero&password=190622zero&type=m3u_plus&output=m3u8
 
 http://tvpromas.com:2082/get.php?username=victoriveros&password=uyjcpvKjZLYu&type=m3u_plus&output=m3u8
 
@@ -2029,10 +2056,6 @@ http://vipketseyket.top:8080/xmltv.php?username=VIP017091755351711557&password=9
 http://vipketseyket.top:8080/get.php?username=VIP01931742212349370&password=42840700e960&type=m3u_plus
 
 http://vipketseyket.top:8080/xmltv.php?username=VIP01931742212349370&password=42840700e960
-
-http://vipketseyket.top:8080/get.php?username=VIP018681738521131327&password=0da15f4a1e65&type=m3u_plus
-
-http://vipketseyket.top:8080/xmltv.php?username=VIP018681738521131327&password=0da15f4a1e65
 
 http://supersonictv.live:8080/get.php?username=Betty1&password=Betty1&type=m3u_plus
 
@@ -2101,8 +2124,6 @@ http://tv.zapping.life:8080/xmltv.php?username=Josetomasg34&password=D8GNiDAIlT&
 http://tv.zapping.life:8080/xmltv.php?username=userrith1&password=gP8NaAB9fE&type=xml_plus
 
 http://tv.zapping.life:8080/xmltv.php?username=yada04&password=Kodi1234!&type=xml_plus
-
-http://vipboacnn.top:8080/get.php?username=VIP0113172679126129&password=51732389530751&type=m3u_plus
 
 http://vipboacnn.top:8080/get.php?username=VIP013791744272390384&password=0c414a9db73e&type=m3u_plus
 
@@ -2414,10 +2435,6 @@ http://streamprostk.com:2082/get.php?username=anderson&password=1636an&type=m3u_
 
 http://streamprostk.com:2082/xmltv.php?username=56976892638wspzero&password=250921zero&type=xml_plus
 
-http://streamprostk.com:2082/xmltv.php?username=56981203900wspzero&password=190622zero&type=xml_plus
-
-http://streamprostk.com:2082/xmltv.php?username=86229937&password=301222zero&type=xml_plus
-
 http://streamprostk.com:2082/xmltv.php?username=Alexegana&password=wJ4rTYgwN3dD&type=xml_plus
 
 http://streamprostk.com:2082/xmltv.php?username=anderson&password=1636an&type=xml_plus
@@ -2696,8 +2713,6 @@ http://fortv.cc:8080/get.php?username=6MvTCm&password=948197&type=m3u
 
 http://fortv.cc:8080/get.php?username=885522&password=225588&type=m3u
 
-http://fortv.cc:8080/get.php?username=937568&password=602127&type=m3u
-
 http://fortv.cc:8080/get.php?username=9569049913&password=jay6292@yahoo.com&type=m3u
 
 http://fortv.cc:8080/get.php?username=96323832&password=96323832&type=m3u
@@ -2705,8 +2720,6 @@ http://fortv.cc:8080/get.php?username=96323832&password=96323832&type=m3u
 http://fortv.cc:8080/get.php?username=9A8vCh&password=118344&type=m3u
 
 http://fortv.cc:8080/get.php?username=bpsnell@gmail.com&password=bpsnell@2024&type=m3u
-
-http://fortv.cc:8080/get.php?username=C6T5ua&password=947673&type=m3u
 
 http://fortv.cc:8080/get.php?username=Christine@Jarvis&password=r14HMtOYFi&type=m3u
 
@@ -2731,8 +2744,6 @@ http://fortv.cc:8080/get.php?username=Ngk96MR&password=vsDye7A&type=m3u
 http://fortv.cc:8080/get.php?username=qd6R0V&password=659296&type=m3u
 
 http://fortv.cc:8080/get.php?username=r8bEQ3&password=544642&type=m3u
-
-http://fortv.cc:8080/get.php?username=rkruja@hotmail.com&password=zwX3gpy7nP&type=m3u
 
 http://fortv.cc:8080/get.php?username=sY6kSEQnpF&password=YciGw9rYxJ&type=m3u
 
