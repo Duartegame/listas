@@ -1,5 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="110" tvg-name="" tvg-logo="https://i.postimg.cc/vB28q8xt/Canal13-Santa-Fe-285.png" group-title="premium",Canal 110
+http://45.225.68.1:8532/cloud_2/Zero.2024.720.lat.mp4
+
+#EXTINF:-1 tvg-id="110" tvg-name="" tvg-logo="https://i.postimg.cc/vB28q8xt/Canal13-Santa-Fe-285.png" group-title="premium",Canal 110
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-10.playlist.m3u8
 
 #EXTINF:-1 tvg-id="111" tvg-name="" tvg-logo="https://i.postimg.cc/65cKYps2/tvpublica-285.png" group-title="premium",Canal 111
