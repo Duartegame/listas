@@ -1,8 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="110" tvg-name="" tvg-logo="https://i.postimg.cc/vB28q8xt/Canal13-Santa-Fe-285.png" group-title="premium",Canal 110
-http://45.225.68.1:8532/cloud_2/Zero.2024.720.lat.mp4
-
-#EXTINF:-1 tvg-id="110" tvg-name="" tvg-logo="https://i.postimg.cc/vB28q8xt/Canal13-Santa-Fe-285.png" group-title="premium",Canal 110
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-10.playlist.m3u8
 
 #EXTINF:-1 tvg-id="111" tvg-name="" tvg-logo="https://i.postimg.cc/65cKYps2/tvpublica-285.png" group-title="premium",Canal 111
@@ -56,19 +53,19 @@ http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-25.playlist.m3u
 #EXTINF:-1 tvg-id="127" tvg-name="" tvg-logo="https://i.postimg.cc/NfqZh9qC/Lifetime-285.png" group-title="premium",Canal 127
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/Lifetime.playlist.m3u8
 
-#EXTINF:-1 tvg-id="128" tvg-name="" tvg-logo="https://i.postimg.cc/PJm3fys3/las-estrellas-285.pngs" group-title="premium",Canal 128
+#EXTINF:-1 tvg-id="128" tvg-name="" tvg-logo="https://i.postimg.cc/tCBqwkPr/lasestrellas.png" group-title="premium",Canal 128
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/lasestrellas.playlist.m3u8
 
-#EXTINF:-1 tvg-id="129" tvg-name="" tvg-logo="https://i.postimg.cc/RZCs9wPd/Telemundo-285.png" group-title="premium",Canal 129
+#EXTINF:-1 tvg-id="129" tvg-name="" tvg-logo="https://i.postimg.cc/xT6fh5HB/telemundointernacional.png" group-title="premium",Canal 129
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-26.playlist.m3u8
 
 #EXTINF:-1 tvg-id="130" tvg-name="" tvg-logo="https://i.postimg.cc/dVWW0DpY/Cartoonito-285.png" group-title="premium",Canal 130
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-30.playlist.m3u8
 
-#EXTINF:-1 tvg-id="131" tvg-name="" tvg-logo="https://i.postimg.cc/SKJgYkbz/Cartoon-Network-285.png" group-title="premium",Canal 131
+#EXTINF:-1 tvg-id="131" tvg-name="" tvg-logo="https://i.postimg.cc/jdxqMmWZ/cartoonnetwork.png" group-title="premium",Canal 131
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-31.playlist.m3u8
 
-#EXTINF:-1 tvg-id="132" tvg-name="" tvg-logo="https://i.postimg.cc/fbpBxpMq/Disney-Channel-285.png" group-title="premium",Canal 132
+#EXTINF:-1 tvg-id="132" tvg-name="" tvg-logo="https://i.postimg.cc/BQSZmk8B/disneychannel.png" group-title="premium",Canal 132
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-32.playlist.m3u8
 
 #EXTINF:-1 tvg-id="133" tvg-name="" tvg-logo="https://i.postimg.cc/bJnLLgJy/Nickelodeon-285.png" group-title="premium",Canal 133
@@ -83,28 +80,28 @@ http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-35.playlist.m3u
 #EXTINF:-1 tvg-id="136" tvg-name="" tvg-logo="https://i.postimg.cc/nLj1c2q4/pakapaka-285.png" group-title="premium",Canal 136
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-36.playlist.m3u8
 
-#EXTINF:-1 tvg-id="137" tvg-name="" tvg-logo="https://i.postimg.cc/sf94XvGN/History-Channel-285.png" group-title="premium",Canal 137
+#EXTINF:-1 tvg-id="137" tvg-name="" tvg-logo="https://i.postimg.cc/BQSZmk81/history.png" group-title="premium",Canal 137
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-40.playlist.m3u8
 
-#EXTINF:-1 tvg-id="138" tvg-name="" tvg-logo="https://i.postimg.cc/hGd9qjqM/history2-285.png" group-title="premium",Canal 138
+#EXTINF:-1 tvg-id="138" tvg-name="" tvg-logo="https://i.postimg.cc/xTfj6hkN/history2.png" group-title="premium",Canal 138
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-41.playlist.m3u8
 
-#EXTINF:-1 tvg-id="139" tvg-name="" tvg-logo="https://i.postimg.cc/QtqKXKYg/Investigation-Discovery-285.png" group-title="premium",Canal 139
+#EXTINF:-1 tvg-id="139" tvg-name="" tvg-logo="https://i.postimg.cc/pXWVs49K/idinvestigation.png" group-title="premium",Canal 139
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-42.playlist.m3u8
 
-#EXTINF:-1 tvg-id="140" tvg-name="" tvg-logo="https://i.postimg.cc/gJGrBkcx/h-h-285.png" group-title="premium",Canal 140
+#EXTINF:-1 tvg-id="140" tvg-name="" tvg-logo="https://i.postimg.cc/DyvfxHWG/discoveryhyh.png" group-title="premium",Canal 140
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-43.playlist.m3u8
 
-#EXTINF:-1 tvg-id="141" tvg-name="" tvg-logo="https://i.postimg.cc/3NcRRXXG/Discovery-Channel-285.png" group-title="premium",Canal 141
+#EXTINF:-1 tvg-id="141" tvg-name="" tvg-logo="https://i.postimg.cc/TYd2tFyg/discoverychannel.png" group-title="premium",Canal 141
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-44.playlist.m3u8
 
 #EXTINF:-1 tvg-id="142" tvg-name="" tvg-logo="https://i.postimg.cc/Lspsn61x/Discovery-Turbo-285.png" group-title="premium",Canal 142
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-99.playlist.m3u8
 
-#EXTINF:-1 tvg-id="143" tvg-name="" tvg-logo="https://i.postimg.cc/257SvRdr/animalplanet-285.png" group-title="premium",Canal 143
+#EXTINF:-1 tvg-id="143" tvg-name="" tvg-logo="https://i.postimg.cc/8PpkZ9F7/animalplanet.png" group-title="premium",Canal 143
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-45.playlist.m3u8
 
-#EXTINF:-1 tvg-id="144" tvg-name="" tvg-logo="https://i.postimg.cc/0Q520WZm/National-Geographic-285.png" group-title="premium",Canal 144
+#EXTINF:-1 tvg-id="144" tvg-name="" tvg-logo="https://i.postimg.cc/65W6Mg7y/natgeo.png" group-title="premium",Canal 144
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-46.playlist.m3u8
 
 #EXTINF:-1 tvg-id="145" tvg-name="" tvg-logo="https://i.postimg.cc/dQxtG9Ck/mtvhd-285.png" group-title="premium",Canal 145
