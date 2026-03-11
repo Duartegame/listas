@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="Religious" tvg-logo="https://i.postimg.cc/0yNkPrvX/Musictop-logo-2016.png",MusicTop
+http://186.0.248.95:20202/Live/ae5e84b89a6f16c4638a790cc891a3c6/musictop.playlist.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/ydoBp3b.png",Avivamiento TV (1080p)
 https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/I0eGYI0.png",BUM Televisión (720p)
