@@ -1,117 +1,117 @@
 #EXTM3U
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i.postimg.cc/0yNkPrvX/Musictop-logo-2016.png",MusicTop
 http://186.0.248.95:20202/Live/ae5e84b89a6f16c4638a790cc891a3c6/musictop.playlist.m3u8
-#EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/ydoBp3b.png",Avivamiento TV (1080p)
+#EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/ydoBp3b.png",Avivamiento TV
 https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/I0eGYI0.png",BUM Televisión (720p)
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/I0eGYI0.png",BUM Televisión
 https://movil.ejeserver.com/live/visiondorada.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/2312Luq.png",Cali TV (540p)
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/2312Luq.png",Cali TV
 https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/Yv8XIGW.png",Canal 2 Alpavisión Neiva (720p)
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/Yv8XIGW.png",Canal 2 Alpavisión Neiva
 https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/peOIG1F.png",Canal 8 TV+ (720p)
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/peOIG1F.png",Canal 8 TV+
 https://movil.ejeserver.com/live/canal8tv.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/kAbrHqt.jpeg",Canal 10 SOL TV (1080p)
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/kAbrHqt.jpeg",Canal 10 SOL TV
 http://190.211.140.89:8081/SVTranscoder/SOLTVabr.stream/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/wNSUMhJ.png",Canal 14 Codazzi (720p)
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/wNSUMhJ.png",Canal 14 Codazzi
 https://eu1.servers10.com:8081/8056/index.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/9BwZyhM.jpg",Canal 55 Telemorisco TV (720p)
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/9BwZyhM.jpg",Canal 55 Telemorisco TV
 http://canal.mediaserver.com.co/live/telemorisco.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/6YxtyUR.jpeg",Canal Calima TV (720p)
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/6YxtyUR.jpeg",Canal Calima TV
 https://cdn.amelbasoluciones.co:8081/calimalive/index.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/BYsyNHZ.jpg",Canal Dos Yopal (720p)
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/BYsyNHZ.jpg",Canal Dos Yopal
 http://131.221.41.94/hls/canal2.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/ODMa27W.jpg",Canal Más Televisión (720p)
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/ODMa27W.jpg",Canal Más Televisión
 https://movil.ejeserver.com/live/teledoradahd.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/edaAexc.png",Canal Nets (720p)
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/edaAexc.png",Canal Nets
 https://movil.ejeserver.com/live/nets.m3u8
-#EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/rfnFqU3.png",Canal Oración Con Son (1080p)
+#EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/rfnFqU3.png",Canal Oración Con Son
 https://canal.mediaserver.com.co/live/oracionconson.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/HbWadhJ.png",Canal Santa Marta TV (720p)
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/HbWadhJ.png",Canal Santa Marta TV
 https://cdn.amelbasoluciones.co:8081/santamartalive/index.m3u8
-#EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/D1s1Q3k.png",Canal Telefamilia (360p)
+#EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/D1s1Q3k.png",Canal Telefamilia
 https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/pyeBDpg.jpeg",Canal TV3 (720p)
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/pyeBDpg.jpeg",Canal TV3
 https://streaming.telenetdigital.net.co:8086/canal3tv/stream.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/RuQDwTt.jpeg",Canica TV (240p)
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/RuQDwTt.jpeg",Canica TV
 https://stmv4.voxtvhd.com.br/canicatv/canicatv/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/zJAwnvd.png",CNC Bugavisión (720p)
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/zJAwnvd.png",CNC Bugavisión
 https://movil.ejeserver.com/live/cncbuga.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/5vJ0aXH.png",CNC Pereira (720p)
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/5vJ0aXH.png",CNC Pereira
 https://cloudpro.servidoresdestream.com:19360/latinchanel/latinchanel.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/LNl2o9q.jpg",CNC Santander de Quilichao (480p)
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/LNl2o9q.jpg",CNC Santander de Quilichao
 https://movil.ejeserver.com/live/cncsantander.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/NCzpcqm.png",CNC Tuluá (720p)
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/NCzpcqm.png",CNC Tuluá
 https://cdn.amelbasoluciones.co:8081/cnctulualive/index.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/QlvYfEJ.png",Cosmovision (720p)
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/QlvYfEJ.png",Cosmovision
 https://videohls2.cosmovision.tv/hls/sd.m3u8
 #EXTINF:-1 group-title="Classic" tvg-logo="https://i.imgur.com/GltIfWW.jpeg",Cúcuta Retro TV
 https://mist01.homestream.fun/hls/ntvlive/0_1/index.m3u8
-#EXTINF:-1 group-title="Education" tvg-logo="https://i.imgur.com/ppBdqel.png",Eduvision (1080p)
+#EXTINF:-1 group-title="Education" tvg-logo="https://i.imgur.com/ppBdqel.png",Eduvision
 https://stmv3.voxtvhd.com.br/conex2/conex2/playlist.m3u8
-#EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/Cw5k96N.png",Frecuencia F TV (1080p)
+#EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/Cw5k96N.png",Frecuencia F TV
 https://tv.frecuenciaf.com/live/envivo.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/7Wlt6bc.png",La Hermandad Salsera (1080p)
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/7Wlt6bc.png",La Hermandad Salsera
 https://streamlov.alsolnet.com/hermandadsalsera/live/playlist.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://www.tdtparatodos.tv/sites/default/files/la_kalle.png",La Kalle (720p)
+#EXTINF:-1 group-title="Music" tvg-logo="https://www.tdtparatodos.tv/sites/default/files/la_kalle.png",La Kalle
 https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/E3wDEX5.png",La Morada Radio TV (720p)
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/E3wDEX5.png",La Morada Radio TV
 https://movil.ejeserver.com/live/lamoradatv.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/cESeD6R.png",Luna Estéreo 106.4 FM (720p)
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/cESeD6R.png",Luna Estéreo 106.4 FM
 https://servervideo.intermediacolombia.com:19360/kychbbfhdz/kychbbfhdz.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/tCg7owd.png",MasMusica FM (720p)
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/tCg7owd.png",MasMusica FM
 https://movil.ejeserver.com/live/masmusica.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/NmsWlj6.jpeg",Mas Norte TV
 https://live.arnoproducciones.com/hls/norte.m3u8
-#EXTINF:-1 group-title="Family;General;Movies" tvg-logo="https://pbs.twimg.com/profile_images/1836009952420274177/FfYonU6r_400x400.jpg",MCI Televisión (1080p)
+#EXTINF:-1 group-title="Family;General;Movies" tvg-logo="https://pbs.twimg.com/profile_images/1836009952420274177/FfYonU6r_400x400.jpg",MCI Televisión
 https://video.ejeserver.com/live/mcitelevision.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/CSbmQlu.png",Mi Gente TV (720p)
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/CSbmQlu.png",Mi Gente TV
 https://byecableiptvnew3.ddns.net/ENVIVOMIGENTE/video.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/ES6xFAv.png",NSTV (1080p)
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/ES6xFAv.png",NSTV
 https://sistemastr.tropicalmoonmedia.com/live/2C7CA6CECC9B8F8C3A07315FDA110936/21.m3u8
-#EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/VKYzFpZ.png",Oasis TV (720p)
+#EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/VKYzFpZ.png",Oasis TV
 https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8
-#EXTINF:-1 group-title="Culture;Music" tvg-logo="https://i.imgur.com/u5804Au.jpg",Ondambiental TV (360p)
+#EXTINF:-1 group-title="Culture;Music" tvg-logo="https://i.imgur.com/u5804Au.jpg",Ondambiental TV
 https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/BzBX7Qx.jpeg",Parranda Vallenata (720p)
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/BzBX7Qx.jpeg",Parranda Vallenata
 https://backupmaxmedia.hvmultiplay.com/hls/stream3/parrandavallenata.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/MJzuRAN.png",RCN Más (1080p)
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/MJzuRAN.png",RCN Más
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment;General;News" tvg-logo="https://i.imgur.com/kuqkTMC.png",Red+ (1080p)
+#EXTINF:-1 group-title="Entertainment;General;News" tvg-logo="https://i.imgur.com/kuqkTMC.png",Red+
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/YmFjnsF.png",Reyali (614p)
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/YmFjnsF.png",Reyali
 https://eu1.servers10.com:8081/8090/index.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/SYa9giW.jpeg",Río Televisión
 https://cdn.amelbasoluciones.co:8081/riotv/index.fmp4.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/qvtaUdp.jpeg",RTC Televisión Urabá (720p)
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/qvtaUdp.jpeg",RTC Televisión Urabá
 https://cdn.amelbasoluciones.co:8081/rtcurabalive/index.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/3IhYd7G.jpg",Salsa Gorda Television (1080p)
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/3IhYd7G.jpg",Salsa Gorda Television
 https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/MiVs42N.jpeg",Supermúsica TV (720p)
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/MiVs42N.jpeg",Supermúsica TV
 https://backupmaxmedia.hvmultiplay.com/hls/stream4/supermusica.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/2N9LCES.png",Suram TV (1080p)
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/2N9LCES.png",Suram TV
 https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/dYhnVoV.png",Telebolívar (720p)
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/dYhnVoV.png",Telebolívar
 https://live20.bozztv.com/akamaissh101/ssh101/telebolivar/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/aKHGRyk.png",Teleislas (486p)
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/aKHGRyk.png",Teleislas
 https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/XHtpEfu.png",Tele Mocoa Canal 10 (1080p)
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/XHtpEfu.png",Tele Mocoa Canal 10
 https://cdn.amelbasoluciones.co:8081/telemocoalive/index.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/39hy97J.png",Telepacífico (1080p)
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/39hy97J.png",Telepacífico
 https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
-#EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/e6esjLZ.jpg",Tu Universo TV (720p)
+#EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/e6esjLZ.jpg",Tu Universo TV
 https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/uRMq5HC.jpeg",TV3 La Plata (720p)
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/uRMq5HC.jpeg",TV3 La Plata
 https://cdn.amelbasoluciones.co:8081/teleopitalive/index.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/Zm4934Z.png",TV Peñol (720p)
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/Zm4934Z.png",TV Peñol
 https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/vLU4Tcu.png",TV San Jorge (1080p)
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/vLU4Tcu.png",TV San Jorge
 https://asucap.com/livestream/asucap_envivo.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/1voWgLI.png",Ultra Casanare TV (1080p)
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/1voWgLI.png",Ultra Casanare TV
 https://eu1.servers10.com:8081/8072/index.m3u8
-#EXTINF:-1 group-title="Outdoor" tvg-logo="https://i.imgur.com/YQUK4wO.png",UMC TV (720p)
+#EXTINF:-1 group-title="Outdoor" tvg-logo="https://i.imgur.com/YQUK4wO.png",UMC TV
 https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/25CFHpB.png",Vive TV Colombia (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/25CFHpB.png",Vive TV Colombia
 http://192.144.113.132:1935/live/ViveTV/playlist.m3u8
 #EXTINF:-1 ,#EXTVLCOPT:http-referrer=https://canalzoom.org/senal-en-vivo
 https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8
