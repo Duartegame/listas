@@ -55,3 +55,5 @@ https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8
 https://s.emisoras.tv:8081/tvcopan/index.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/CsPkwD5.png",VTV
 https://d3q93l5bumjyoq.cloudfront.net/index.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/S69lDu4.png",VTV
+https://videoserver.tmcreativos.com:19360/mbcrtzxnxd/mbcrtzxnxd.m3u8
