@@ -73,3 +73,5 @@ https://cloudvideo.servers10.com:8081/8198/index.m3u8
 https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://i.postimg.cc/LscqFg3x/In_Shot_20260327_100034675.png",TeleRed
 https://rtv.fullhd-streaming.com:19360/telered/telered.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.postimg.cc/NFpmtfMY/TELESISTEMAS.png",Telesistema
+https://rtv.fullhd-streaming.com:19360/telesistemas/telesistemas.m3u8
