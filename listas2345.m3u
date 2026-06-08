@@ -2,177 +2,119 @@
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pyStT0Jv/animalplanet.png",ANIMAL PLANET
 https://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-animalplanet_720.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9rqHqGL9/axn.png",AXN
 https://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-axn_720.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pyStT0JF/cartoonnetwork.png",CARTOON NETWORK
 https://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-cartoon_720.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Btb0JWH4/cinecanal.png",CINECANAL
 https://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-cinecanal_720.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/V5v8zyMB/disneychannel.png",DISNEY CHANNEL
 https://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-disney_720.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yD44hk54/espn.png",ESPN
 https://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-espnlat_720.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yD44hk54/espn.png",ESPN ARGENTINA
 https://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-espnar_720.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0zRRGb3g/espn2.png",ESPN 2
 https://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-espn2ar_720.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0zRRGb3g/espn2.png",ESPN 2 LAT
 https://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-espn2lat_720.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/68JJVyPk/espn3.png",ESPN 3 LAT
 https://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-espn3lat_720.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/68JJVyPk/espn3.png",ESPN 3 ARG
 https://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-espn3ar_720.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k233NBHk/espn4.png",ESPN 4 LAT
 https://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-espn4lat_720.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Mn220vLN/espn5.png",ESPN 5 LAT
 https://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-espn5lat_720.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NKqq85nN/espn6.png",ESPN 6 LAT
 https://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-espn6lat_720.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/w18857rr/espn7.png",ESPN 7 LAT
 https://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-espn7lt_720.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/K4j2mXLP/espnpremium.png",ESPN PREMIUM
 https://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-espnpremar_720.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/K4j2mXLP/espnpremium.png",ESPN PREMIUM LAT
 https://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-espnpremlat_720.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/v4FF7cKX/foxsports.png",FOX SPORTS
 https://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-fox1ar_720.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZWttPCQH/foxsports2.png",FOX SPORTS 2
 https://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-fox2ar_720.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3dDQDgtP/foxsports3.png",FOX SPORTS 3
 https://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-fox3ar_720.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/21Qp0CRr/fx.png",FX
 https://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-fx_720.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7bhkqv7K/golden.png",GOLDEN
 https://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-golden_720.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fkyNM4X7/history.png",HISTORY CHANNEL
 https://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-historychan_720.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yWGzdfy7/history2.png",HISTORY 2
 https://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-history2_720.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Th16T8mF/space.png",HBO
 https://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-hbolat_720.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MvjJjy9P/telefe.png",TELEFE
 https://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-telefe_720.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/V5v8zyn1/tntseries.png",TNT SERIES
 https://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-tnt-series_720.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TKV8tTMT/tntsports.png",TNT SPORTS
 https://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-tnt-sporar_720.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TKV8tTMT/tntsports.png",TNT PREMIUM
 https://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-tnt-prem_720.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HrwG6TDL/tooncast.png",TOONCAST
 https://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-toonlat_720.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZWttPCgR/tycsports.png",TYC SPORTS
 https://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-tycar_720.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bd5jJ69c/universalchannel.png",UNIVERSAL CHANNEL
 https://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-universal_720.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HjngTG5F/warnerbrostv.png",WARNER BROS TV
 https://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-warner_720.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0bJ1JpVB/winsportsplus.png",WIN SPORTS
 https://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-win-s_720.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Bn3JjGrg/listasm3ufre.jpg",AMERICA
 https://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-america_720.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Bn3JjGrg/listasm3ufre.jpg",EL NUEVE
 https://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-elnueve_720.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Bn3JjGrg/listasm3ufre.jpg",EL TRECE
 https://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-eltrece_720.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Bn3JjGrg/listasm3ufre.jpg",TV PÚBLICA
 https://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-tvp_720.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Bn3JjGrg/listasm3ufre.jpg",C5N
 https://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-c5n_720.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Bn3JjGrg/listasm3ufre.jpg",CRÓNICA TV
 https://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-cronica_720.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Bn3JjGrg/listasm3ufre.jpg",TN
 https://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-tn_720.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Bn3JjGrg/listasm3ufre.jpg",LN
 https://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-ln_720.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Bn3JjGrg/listasm3ufre.jpg",ADULT SWIM
 https://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-adultwin_720.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Bn3JjGrg/listasm3ufre.jpg",DISNEY JUNIOR
 https://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-disneyjunior_720.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Bn3JjGrg/listasm3ufre.jpg",TEEN NICK
 https://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-lolykids_720.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Bn3JjGrg/listasm3ufre.jpg",EL GOURMET
 https://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-gourmet_720.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Bn3JjGrg/listasm3ufre.jpg",FOOD NETWORK
 https://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-food_720.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Bn3JjGrg/listasm3ufre.jpg",SUN CHANNEL
 https://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-Sun_720.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Bn3JjGrg/listasm3ufre.jpg",MTV
 https://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-mtv_720.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Bn3JjGrg/listasm3ufre.jpg",STINGRAY
 https://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-stin_720.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Bn3JjGrg/listasm3ufre.jpg",HBO 2
 https://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-hbo2_720.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Bn3JjGrg/listasm3ufre.jpg",HBO FAMILY
 https://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-hbofami_720.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Bn3JjGrg/listasm3ufre.jpg",HBO XTREME
 https://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-hboxtrem_720.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Bn3JjGrg/listasm3ufre.jpg",HBO SIGNATURE
 https://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-hbosigna_720.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Bn3JjGrg/listasm3ufre.jpg",HBO POP
 https://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-hbopoplat_720.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Bn3JjGrg/listasm3ufre.jpg",HBO PLUS
 https://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-hboplus_720.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Bn3JjGrg/listasm3ufre.jpg",HBO MUNDI
 https://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-hbomundi_720.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Bn3JjGrg/listasm3ufre.jpg",SONY
 https://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-sony_720.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Bn3JjGrg/listasm3ufre.jpg",MUNDIAL 2026
 https://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-mundial-2026_720.m3u8
