@@ -31,7 +31,7 @@ https://lencatelevision.com/hls/stream.m3u8
 https://s.emisoras.tv:8081/metrotv/index.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/chPfoOs.png",Radio Ideal 104.7 FM
 https://www.idealfm104-7.com/hls/0/stream.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/0TEeEFG.jpg",RCV TV
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/JnOQwGu.png",RCV TV
 https://59d39900ebfb8.streamlock.net/rcv/rcv/playlist.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/v90r5jS.png",Sula TV
 https://tv.webmedialive.com/sulatv/live/playlist.m3u8
