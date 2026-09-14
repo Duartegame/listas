@@ -15,7 +15,7 @@ https://s.emisoras.tv:8081/diostevetv/index.m3u8
 https://s.emisoras.tv:8081/diostevekids/index.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/IC30j61.png",Ebenezer TV
 https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/5fPsYTz.png",EDN TV
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://ednhn.com/wp-content/uploads/2023/03/Logo-EDN.png",EDN TV
 https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/C9zjz9p/343159606-190989583743350-3489987129696505785-n.jpg",Radio Imagen 105.1 FM
 https://streaming.imagenfm105-1.com/hls/stream.m3u8
