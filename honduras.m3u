@@ -7,7 +7,7 @@ https://5e85d90130e77.streamlock.net/6052/6052/playlist.m3u8
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/mpc4Isd.png",Choluteca
 https://s.emisoras.tv:8081/cholutecatv/index.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/QLQgwc6.png",CHTV
+#EXTINF:-1 group-title="General" tvg-logo="https://www.chtv.hn/wp-content/themes/barta/assets/img/logo-light.png",CHTV
 https://viewhn.com/chtv/live/playlist.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/7hNwUV2.png",Dios Te Ve
 https://s.emisoras.tv:8081/diostevetv/index.m3u8
@@ -17,7 +17,7 @@ https://s.emisoras.tv:8081/diostevekids/index.m3u8
 https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://ednhn.com/wp-content/uploads/2023/03/Logo-EDN.png",EDN TV
 https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/C9zjz9p/343159606-190989583743350-3489987129696505785-n.jpg",Radio Imagen 105.1 FM
+#EXTINF:-1 group-title="Music" tvg-logo="https://imagenfm105-1.com/wp-content/uploads/2022/09/Favicon-radio-imagen.png",Radio Imagen 105.1 FM
 https://streaming.imagenfm105-1.com/hls/stream.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/S79uof0.png",Kerusso TV
 https://s.emisoras.tv:8081/kerussotv/index.m3u8
