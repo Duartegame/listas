@@ -3,8 +3,6 @@
 https://617c5175c970b.streamlock.net:4444/13max2/live13maxtv2026/playlist.m3u8
 #EXTINF:-1 ,5TV ar
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
-#EXTINF:-1 ,Canal 7 Jujuy ar
-https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 #EXTINF:-1 ,Ciudad ar
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 #EXTINF:-1 ,Estrella NW mx
@@ -23,8 +21,6 @@ https://60417ddeaf0d9.streamlock.net/telemetrika3/telemetrika3.smil/.m3u8
 https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8
 #EXTINF:-1 ,TV4.1 mx
 https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
-#EXTINF:-1 ,Azteca Noreste
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65791199dfed030008d031d3livestitch/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bfeb4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8b9d8440-9f8c-48af-b204-866c8629d07f&profilesFromStream=true
 #EXTINF:-1 ,Telemax mx
 http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
 #EXTINF:-1 ,El televisión
@@ -53,8 +49,6 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8
 #EXTINF:-1 ,TNE
 https://v2.tustreaming.cl/tnetv/index.m3u8
-#EXTINF:-1 ,UMAG2
-https://tls-cl.cdnz.cl/umag2/live/playlist.m3u8
 #EXTINF:-1 ,8 La Marina TV SD
 https://streaming005.gestec-video.com/hls/canal24.m3u8
 #EXTINF:-1 ,8NTV SD
@@ -63,24 +57,14 @@ https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 #EXTINF:-1 ,24/7 Canal de Noticias SD
 https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
-#EXTINF:-1 ,AE Radio TV SD
-https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8
 #EXTINF:-1 ,Agape TV SD
 https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8
-#EXTINF:-1 ,Aguacate TV SD
-https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
 #EXTINF:-1 ,Alacanti TV SD
 https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8
-#EXTINF:-1 ,Alcance TV SD
-https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8
 #EXTINF:-1 ,Alcarria TV SD
 http://217.182.77.27/live/alcarriatv-livestream.m3u8
 #EXTINF:-1 ,AMX Noticias SD
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
-#EXTINF:-1 ,Anime Vision SD
-https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
-#EXTINF:-1 ,Anime Vision Classics SD
-https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
 #EXTINF:-1 ,Antena Seis TV SD
 https://video1.azulstream.com:8081/antenaseistv/index.m3u8
 #EXTINF:-1 ,Antena TV SD
@@ -89,8 +73,6 @@ https://5ca9af4645e15.streamlock.net/grd/videogrd/playlist.m3u8
 https://tvdatta.com:3578/live/antenaunolive.m3u8
 #EXTINF:-1 ,Arabi TV SD
 https://streamtv2.elitecomunicacion.cloud:3628/live/arabitv2025live.m3u8
-#EXTINF:-1 ,Arbol de Vida TV SD
-https://yupistream.top:19360/livearbol/livearbol.m3u8
 #EXTINF:-1 ,A&R Canal SD
 http://51.222.9.192:3589/stream/play.m3u8
 #EXTINF:-1 ,Autentica Television SD
@@ -103,12 +85,6 @@ https://v1.tustreaming.cl/aysentv/index.m3u8
 https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
 #EXTINF:-1 ,Bruno Masi TV SD
 https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8
-#EXTINF:-1 ,Buena TV SD
-https://59825a54e4454.streamlock.net:8443/papo351/papo351/playlist.m3u8
-#EXTINF:-1 ,BurrianaTeVe SD
-https://www.burrianateve.com/hls/btv.m3u8
-#EXTINF:-1 ,Cadena103.TV SD
-http://arcast.net:1935/cadena103/cadena103/playlist.m3u8
 #EXTINF:-1 ,Canal 1 Mar Menor Torre Pacheco SD
 https://directo.tuwebtv.es/canal1.m3u8
 #EXTINF:-1 ,Canal 4 Posadas SD
@@ -117,80 +93,42 @@ https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
 https://stream.meteorito.cloud:1947/canal6/smil:canal6.smil/playlist.m3u8
 #EXTINF:-1 ,Canal 6 Posadas SD
 https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
-#EXTINF:-1 ,Canal 7 TeleValencia SD
-https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
 #EXTINF:-1 ,Canal 8 Catacaos SD
 https://live.obslivestream.com/canal8/index.m3u8
-#EXTINF:-1 ,Canal 9 Litoral SD
-https://stream.arcast.live/ahora/ahora/playlist.m3u8
 #EXTINF:-1 ,Canal 9 Resistencia SD
 http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
 #EXTINF:-1 ,Canal 10 SD
 https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
-#EXTINF:-1 ,Canal 10 Cordoba SD
-https://stream.arcast.net:4443/canal10/ngrp:canal10_all/playlist.m3u8
-#EXTINF:-1 ,Canal 13 Esquipulas SD
-https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
 #EXTINF:-1 ,Canal 13 La Rioja SD
 http://arcast.net:1935/mp/mp/playlist.m3u8
-#EXTINF:-1 ,Canal 13 San Luis SD
-https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8
-#EXTINF:-1 ,Canal 14 Codazzi SD
-https://eu1.servers10.com:8081/8056/index.m3u8
 #EXTINF:-1 ,Canal 21 SD
 https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
-#EXTINF:-1 ,Canal 21 Huancayo HD
-https://play.agenciastreaming.com:8081/tvwanka/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 ,Canal 21 TV SD
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
 #EXTINF:-1 ,Canal 26 SD
 https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8
-#EXTINF:-1 ,Canal 26 TV IAP SD
-https://vdo.tecnoservix.stream:3899/live/canal26tvlive.m3u8
 #EXTINF:-1 ,Canal 30 TV Bethel SD
 https://s.emisoras.tv:8081/canal30tvbethel/index.m3u8
 #EXTINF:-1 ,Canal 33 Tijuana SD
 https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
 #EXTINF:-1 ,Canal 44 SD
 https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
-#EXTINF:-1 ,Canal 56 SD
-https://videos.canal56.com/directe/stream/index.m3u8
-#EXTINF:-1 ,Canal 79 La Costa SD
-https://streamconex.com:19360/lacosta/lacosta.m3u8
-#EXTINF:-1 ,Canal 79 Puan SD
-https://streamconex.com:19360/puan/puan.m3u8
-#EXTINF:-1 ,Canal 79 Santa Clara del Mar SD
-https://streamconex.com:19360/santaclara-1/santaclara-1.m3u8
 #EXTINF:-1 ,Canal 2000 SD
 http://canal2000.berkano-systems.net/streaming/streams/canal2000.m3u8
-#EXTINF:-1 ,Canal Claro SD
-https://stitcher.pluto.tv/stitch/hls/channel/68224482c5d53e1351aaf2f2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e3ca3088-b0b3-11f0-ab21-da2bce2249f9
 #EXTINF:-1 ,Canal Dos SD
 http://131.221.41.94/hls/canal2.m3u8
-#EXTINF:-1 ,Canal Orbe 21 SD
-https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
 #EXTINF:-1 ,Canal Parlamento SD
 https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8
 #EXTINF:-1 ,Canal Parlamento del Congreso de Jalisco SD
 https://60417ddeaf0d9.streamlock.net/srtc/smil:srtc.smil/playlist.m3u8
-#EXTINF:-1 ,Canal Provincial SD
-https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8
-#EXTINF:-1 ,Canal Santa Maria SD
-https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8
 #EXTINF:-1 ,Canal Sierra de Cadiz SD
 https://s.emisoras.tv:8081/sierradecadiz/index.m3u8
 #EXTINF:-1 ,like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://ingest1-video.streaming-pro.com/canaltaronja/central/playlist.m3u8
 #EXTINF:-1 ,like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://ingest1-video.streaming-pro.com/canaltaronja/osona/playlist.m3u8
-#EXTINF:-1 ,like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-https://ingest1-video.streaming-pro.com/canalteABR/ctestream/playlist.m3u8
-#EXTINF:-1 ,Candelita TV SD
-https://6110f70ea8d0e.streamlock.net/1689/1689/playlist.m3u8
 #EXTINF:-1 ,Caritas TV SD
 https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8
-#EXTINF:-1 ,CAtv SD
-https://video2.getstreamhosting.com:19360/8216/8216.m3u8
 #EXTINF:-1 ,Choluteca TV SD
 https://s.emisoras.tv:8081/cholutecatv/index.m3u8
 #EXTINF:-1 ,Ciracu TV SD
@@ -217,8 +155,6 @@ https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
 https://cloudvideo.servers10.com:8081/8030/index.m3u8
 #EXTINF:-1 ,CR Television SD
 https://live.obslivestream.com/crtvmux/index.m3u8
-#EXTINF:-1 ,Dance FM SD
-https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8
 #EXTINF:-1 ,DeFiance Media SD
 https://amg01529-defiancetv-defiancemedia-glewed-tre8x.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,Diez TV Las Villas SD
@@ -229,22 +165,10 @@ https://streaming.cloud.innovasur.es/mmj/index.m3u8
 https://s.emisoras.tv:8081/diostevetv/index.m3u8
 #EXTINF:-1 ,Dismar Radio TV SD
 https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8
-#EXTINF:-1 ,Ebenezer TV SD
-https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/playlist.m3u8
-#EXTINF:-1 ,Ecuador TV SD
-https://samson.streamerr.co:8081/shogun/index.m3u8
 #EXTINF:-1 ,EDN TV SD
 https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8
 #EXTINF:-1 ,Elche 7 TV SD
 https://elche7tv.gestec-video.com/hls/canal2.m3u8
-#EXTINF:-1 ,EnerGeek SD
-https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH
-#EXTINF:-1 ,EnerGeek Radio SD
-https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=ZZDemoIPTVGH
-#EXTINF:-1 ,Escuchame Radio TV SD
-https://stmv1.transmissaodigital.com/pedro9800/pedro9800/playlist.m3u8
-#EXTINF:-1 ,Espiritu Santo Y Fuego TV SD
-https://inliveserver.com:1936/8392/8392/playlist.m3u8
 #EXTINF:-1 ,Estepona Television SD
 https://cloudvideo.servers10.com:8081/8022/index.m3u8
 #EXTINF:-1 ,Expresa TV SD
@@ -255,16 +179,8 @@ https://www.streaming507.net:19360/videofabulosa/videofabulosa.m3u8
 https://5dbcd1053301e.streamlock.net:4443/farodesantidad/farodesantidad/playlist.m3u8
 #EXTINF:-1 ,Farra Play SD
 http://159.203.148.226/live/farra.m3u8
-#EXTINF:-1 ,Fibwi SD
-https://hostcdn3.fibwi.com/fibwi_diario/index.fmp4.m3u8
-#EXTINF:-1 ,GAMTV.cr SD
-https://v2.azulstream.com:8081/gamtv/gamtv/index.m3u8
 #EXTINF:-1 ,Garabito TV SD
 https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
-#EXTINF:-1 ,Gol Classics SD
-https://d71gqtnep83vb.cloudfront.net/gol_classics/gol_classics.m3u8
-#EXTINF:-1 ,Hispania TV SD
-https://www.streaming507.net:19360/hispaniamediatv/hispaniamediatv.m3u8
 #EXTINF:-1 ,HOLA! Play SD
 https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8
 #EXTINF:-1 ,IeanJesus Ecuador SD
@@ -281,12 +197,6 @@ https://s2.tvdatta.com:3753/hybrid/play.m3u8
 https://streamingtvi.gestec-video.com/hls/tvixa.m3u8
 #EXTINF:-1 ,Inter TV SD
 https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8
-#EXTINF:-1 ,IQ Channel SD
-https://rtmp.info/iqtv/envivo/playlist.m3u8
-#EXTINF:-1 ,Kanade SD
-https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=ZZDemoIPTVGH
-#EXTINF:-1 ,KandelaTV SD
-https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
 #EXTINF:-1 ,Kerusso TV SD
 https://s.emisoras.tv:8081/kerussotv/index.m3u8
 #EXTINF:-1 ,Las Estrellas SD
@@ -299,20 +209,12 @@ https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8
 https://streamer1.streamhost.org/salive/logosH/master.m3u8
 #EXTINF:-1 ,Logos TV Kids SD
 https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8
-#EXTINF:-1 ,Logos TV Salud SD
-https://streamer1.streamhost.org/salive/logossaludH/playlist.m3u8
-#EXTINF:-1 ,Los Santos TV SD
-https://lstv.duckdns.org:449/hls/lstv.m3u8
 #EXTINF:-1 ,M95 Television Marbella SD
 https://limited2.todostreaming.es/live/m95-livestream.m3u8
 #EXTINF:-1 ,Marca TV SD
 https://eu1.servers10.com:8081/8030/index.m3u8
-#EXTINF:-1 ,Maxivision TV SD
-https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8
 #EXTINF:-1 ,MegaBox SD
 https://hdbox.chunklistv.com/live?stream=megabox
-#EXTINF:-1 ,EXTVLCOPT
-https://ythls.armelin.one/channel/UCkccyEbqhhM3uKOI6Shm-4Q.m3u8
 #EXTINF:-1 ,Mega TV Jaen SD
 https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
 #EXTINF:-1 ,Metropoli Medios TV SD
@@ -327,10 +229,6 @@ https://streaming004.gestec-video.com/hls/MIJAS.m3u8
 https://iptv.ixfo.com.ar:30443/live-HD/MISIONES4/playlist.m3u8
 #EXTINF:-1 ,Monterrico TV SD
 https://www.opencaster.com/resources/hls_stream/hipodromojcp2.m3u8
-#EXTINF:-1 ,Multivision Canal 3 SD
-https://stream.digitalgt.com:3136/live/multivisionlive.m3u8
-#EXTINF:-1 ,Multivision Sports SD
-https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
 #EXTINF:-1 ,MyTime Movie Network SD
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,MyTime Movie Network SD
@@ -343,16 +241,10 @@ https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61fc0df14159c40007250432/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0689f1-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c6eb9bb4-6b13-4301-ab2b-7475ad0a7145
 #EXTINF:-1 ,Negocios TV SD
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
-#EXTINF:-1 ,Next HD SD
-https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 #EXTINF:-1 ,NG Federal SD
 http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
-#EXTINF:-1 ,NicoyaTV SD
-https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
 #EXTINF:-1 ,Noroeste TV SD
 https://cloudvideo.servers10.com:8081/8032/index.m3u8
-#EXTINF:-1 ,Norte Informativo TV SD
-https://videohd.live:19360/8076/8076.m3u8
 #EXTINF:-1 ,Nortevision SD
 http://amaru.dyndns.org:8870/0.m3u8
 #EXTINF:-1 ,N+ Media SD
@@ -361,12 +253,8 @@ https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index.m3u8
 http://138.186.23.7:22281/nstv/nstv/playlist.m3u8
 #EXTINF:-1 ,Nueve TV SD
 https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
-#EXTINF:-1 ,Oasis TV SD
-https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8
 #EXTINF:-1 ,Olam Metro TV SD
 https://netzerstreaming.com:4433/hls/olammetro/index.m3u8
-#EXTINF:-1 ,Onda 15 TV SD
-https://cloudvideo.servers10.com:8081/8034/index.m3u8
 #EXTINF:-1 ,ONDA DIGITAL SD
 https://tv.ondadigital.pe/ondadigital/index.m3u8
 #EXTINF:-1 ,Onda Valencia TV SD
@@ -385,16 +273,10 @@ https://5ff3d9babae13.streamlock.net/8028/8028/playlist.m3u8
 https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8
 #EXTINF:-1 ,Portuguesa Television SD
 https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8
-#EXTINF:-1 ,Power Max Radio TV SD
-https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8
-#EXTINF:-1 ,PRIDEtv LATAM HD
-https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=ZZDemoIPTVGH
 #EXTINF:-1 ,Pura Palabra SD
 https://59825a54e4454.streamlock.net:8443/william233/william233/playlist.m3u8
 #EXTINF:-1 ,Puruwa TV SD
 https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8
-#EXTINF:-1 ,Quantica TV SD
-https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
 #EXTINF:-1 ,Radio Ancon SD
 https://www.streaming507.net:19360/anconvideo/anconvideo.m3u8
 #EXTINF:-1 ,Radio Bocairent TV SD
@@ -411,10 +293,6 @@ https://tuvideoonline.com.ar:3391/live/radioconexionlive.m3u8
 https://eu1.servers10.com:8081/8074/index.m3u8
 #EXTINF:-1 ,Radio Fantastica 98.9 FM SD
 http://190.107.232.9:8082/livestream/stream.m3u8
-#EXTINF:-1 ,Radio Isla TV SD
-https://59a564764e2b6.streamlock.net/palestra/palestra/playlist.m3u8
-#EXTINF:-1 ,Radio Ritmo FM SD
-https://panel.tvstream.cl:1936/8046/8046/playlist.m3u8
 #EXTINF:-1 ,RadioTV Oriente SD
 https://live.obslivestream.com/tvoriente/index.m3u8
 #EXTINF:-1 ,Rakuten TV Action Movies Italy
@@ -423,40 +301,18 @@ https://87f2e2e5e7624e3bad85da1ca2ed31a7.mediatailor.eu-west-1.amazonaws.com/v1/
 https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8
 #EXTINF:-1 ,Rakuten TV Drama Movies Germany
 https://968754c2483045c1a9a7f677caec35b6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6096/master.m3u8
-#EXTINF:-1 ,Rakuten TV Family Movies Finland
-https://758ee983d61e400381dea6fa8154f4e0.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6227/master.m3u8
-#EXTINF:-1 ,Rakuten TV Nordic Films Finland
-https://4aa9ef08b70d4b0c8f3519c5950b1930.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6303/master.m3u8
-#EXTINF:-1 ,Rakuten TV Top Movies Finland
-https://1d1b0d4cb6ae4c31985d13221795695b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6057/master.m3u8
 #EXTINF:-1 ,Rakuten Viki Poland
 https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8
-#EXTINF:-1 ,Raly TV SD
-https://cloudvideo.servers10.com:8081/8072/index.m3u8
-#EXTINF:-1 ,Reforma TV SD
-https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/playlist.m3u8
 #EXTINF:-1 ,Reyali SD
 https://eu1.servers10.com:8081/8090/index.m3u8
-#EXTINF:-1 ,Rhema TV SD
-https://5e85d90130e77.streamlock.net/6006/6006/playlist.m3u8
 #EXTINF:-1 ,Ribera TV SD
 https://common01.todostreaming.es/live/ribera-livestream.m3u8
-#EXTINF:-1 ,ROTV Valencia SD
-https://rotv.romediavalencia.com:3839/live/rotvlive.m3u8
 #EXTINF:-1 ,RSelvaTV SD
 https://live.obslivestream.com/selvatv/index.m3u8
-#EXTINF:-1 ,San Jose TV SD
-https://rtmp.info/sanjosetv/envivo/playlist.m3u8
 #EXTINF:-1 ,Sarapiqui TV SD
 http://tiquiciatv.com:1935/stv/web/playlist.m3u8
-#EXTINF:-1 ,Senal Positiva TV SD
-https://eu1.servers10.com:8081/8108/index.m3u8
-#EXTINF:-1 ,Solidaria TV SD
-https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 #EXTINF:-1 ,Sol Musica SD
 https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
-#EXTINF:-1 ,SolTV SD
-https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
 #EXTINF:-1 ,Somos TV SD
 https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8
 #EXTINF:-1 ,Sono Onda TV SD
@@ -465,20 +321,12 @@ https://live.obslivestream.com/sonoondatv/index.m3u8
 https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8
 #EXTINF:-1 ,SpektraTV SD
 https://cloudvideo.servers10.com:8081/8026/tracks-v1a1/index.m3u8
-#EXTINF:-1 ,SQCS Canal 4 SD
-https://video0.rogohosting.com:19360/4982/4982.m3u8
-#EXTINF:-1 ,STZ Telebista SD
-https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8
 #EXTINF:-1 ,Super Canal SD
 https://live.obslivestream.com/supercanal/index.m3u8
 #EXTINF:-1 ,Super Q Panama SD
 https://vcp8.myplaytv.com:1936/superq/superq/playlist.m3u8
-#EXTINF:-1 ,Suram TV SD
-https://us.streaminghd.cl/suramtv/index.m3u8
 #EXTINF:-1 ,TaberTV SD
 https://5fc584f3f19c9.streamlock.net/tabertv/videotabertv/playlist.m3u8
-#EXTINF:-1 ,EXTVLCOPT
-https://tv.webtuya.com:3726/hybrid/play.m3u8
 #EXTINF:-1 ,Taroteame SD
 https://5d2733224ac48.streamlock.net/taroteame/tarot_web/playlist.m3u8
 #EXTINF:-1 ,TDtv SD
@@ -487,14 +335,6 @@ https://cloudvideo.servers10.com:8081/8230/index.m3u8
 http://45.173.198.59:8080/hls/nginx3.m3u8?tla=
 #EXTINF:-1 ,TeleBrunca SD
 https://59ef525c24caa.streamlock.net/telebrunca/telebrunca/playlist.m3u8
-#EXTINF:-1 ,Telecinco SD
-https://videohd.live:19360/8016/8016.m3u8
-#EXTINF:-1 ,Telefides SD
-https://s2.cwebtv.net:4433/telefides/telefides/playlist.m3u8
-#EXTINF:-1 ,Telenord SD
-http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
-#EXTINF:-1 ,Telerayo SD
-https://s.emisoras.tv:8081/telerayo/index.m3u8
 #EXTINF:-1 ,EXTVLCOPT
 https://k20.usastreams.com:8081/telered/index.m3u8
 #EXTINF:-1 ,Teleselva SD
@@ -509,16 +349,10 @@ https://tls-cl.cdnz.cl/televida/live/playlist.m3u8
 https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8
 #EXTINF:-1 ,EXTVLCOPT
 https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8
-#EXTINF:-1 ,Tevex SD
-https://v4.tustreaming.cl/tevexinter/index.m3u8
-#EXTINF:-1 ,Torococo TV SD
-https://us.streaminghd.cl/torococotelevision/video.m3u8
 #EXTINF:-1 ,TRT SD
 https://vcp12.myplaytv.com/trt/trt/playlist.m3u8
 #EXTINF:-1 ,Turbo Mix Radio TV SD
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
-#EXTINF:-1 ,Tu Universo TV SD
-https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
 #EXTINF:-1 ,TV 45 SD
 https://hdbox.chunklistv.com/live?stream=3abn-nicaragua
 #EXTINF:-1 ,TVA SD
@@ -531,8 +365,6 @@ https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
 https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
 #EXTINF:-1 ,TV Getsemani SD
 https://serversv.com:8080/hls/tvgetsemani.m3u8
-#EXTINF:-1 ,TV Leon de Juda SD
-https://6110f70ea8d0e.streamlock.net/1838/1838/playlist.m3u8
 #EXTINF:-1 ,TV Mana Argentina SD
 https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8
 #EXTINF:-1 ,TV Mar La Paz SD
@@ -547,8 +379,6 @@ https://streamtv.intervenhosting.net:3529/live/tvmparatilive.m3u8
 https://hdbox.chunklistv.com/live?stream=tvone
 #EXTINF:-1 ,TVP Culiacan SD
 https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
-#EXTINF:-1 ,EXTVLCOPT
-https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e47.m3u8
 #EXTINF:-1 ,TVP Los Mochis SD
 https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/playlist.m3u8
 #EXTINF:-1 ,TVReus SD
@@ -557,18 +387,8 @@ https://eu1.servers10.com:8081/8166/index.m3u8
 https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8
 #EXTINF:-1 ,like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://ingest1-video.streaming-pro.com/canaltaronja/sabadell/playlist.m3u8
-#EXTINF:-1 ,TV San Jorge SD
-https://asucap.com/livestream/asucap_envivo.m3u8
-#EXTINF:-1 ,TV Solidaria SD
-https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
 #EXTINF:-1 ,TV Sur Canal 14 SD
 https://k20.usastreams.com:8081/tvsur/index.m3u8
-#EXTINF:-1 ,TVT SD
-https://5e50264bd6766.streamlock.net/tabasco/videotabasco/playlist.m3u8
-#EXTINF:-1 ,TV UJAT SD
-https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8
-#EXTINF:-1 ,TV Universidad SD
-https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 #EXTINF:-1 ,U Los Lagos TV SD
 http://tv.ulagos.cl/web/live.m3u8
 #EXTINF:-1 ,Ultra TV Puebla SD
@@ -579,30 +399,18 @@ https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u
 https://streamingtvi.gestec-video.com/hls/unesd.m3u8
 #EXTINF:-1 ,UNIANDES TV SD
 https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8
-#EXTINF:-1 ,Unife TV SD
-https://5dcabf026b188.streamlock.net/StreamUnife/livestream/playlist.m3u8
 #EXTINF:-1 ,Union TV SD
 https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8
-#EXTINF:-1 ,Unitel SD
-https://play.agenciastreaming.com:8081/uniteltv/index.m3u8
 #EXTINF:-1 ,UniTV SD
 https://vcp6.myplaytv.com/unitv/unitv/playlist.m3u8
 #EXTINF:-1 ,Unsion TV SD
 http://provedores.unsion.tv:8081/srt/1/playlist.m3u8
 #EXTINF:-1 ,Urbano TV SD
 https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
-#EXTINF:-1 ,EXTVLCOPT
-https://streamusmptv.ddns.net/live/stream.m3u8
 #EXTINF:-1 ,UTV SD
 https://v2.tustreaming.cl/utv/index.m3u8
-#EXTINF:-1 ,V Classic TV SD
-https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
-#EXTINF:-1 ,VC Online SD
-https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8
 #EXTINF:-1 ,Via Altomayo SD
 https://live.obslivestream.com/viaaltomayomux/index.m3u8
-#EXTINF:-1 ,Via Television SD
-https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8
 #EXTINF:-1 ,Video Tour Channel SD
 http://k4.usastreams.com/videotour/videotour/playlist.m3u8
 #EXTINF:-1 ,Vintage Music SD
@@ -613,8 +421,6 @@ https://5ff3d9babae13.streamlock.net/jwagpqxehu/jwagpqxehu/playlist.m3u8
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 #EXTINF:-1 ,Vision Television SD
 https://cloudvideo.servers10.com:8081/8016/index.m3u8
-#EXTINF:-1 ,Vive TV SD
-http://192.144.113.132:1935/live/ViveTV/playlist.m3u8
 #EXTINF:-1 ,VoiceOver Radio TV SD
 https://cloudvideo.servers10.com:8081/8198/index.m3u8
 #EXTINF:-1 ,WECN SD
@@ -623,21 +429,13 @@ https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/chunkl
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1 ,WKAQ-DT2 SD
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
-#EXTINF:-1 ,WTV Canal 20 SD
-https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8
 #EXTINF:-1 ,Wuan+ SD
 https://7.innovatestream.pe:19360/ecuadortest/ecuadortest.m3u8
 #EXTINF:-1 ,WWXY-DT1 SD
 https://2-fss-2.streamhoster.com/pl_138/amlst:201284-1347630/playlist.m3u8
-#EXTINF:-1 ,WXWZ-LD1 SD
-https://5bf8041cb3fed.streamlock.net/mastvpr/mastvpr/playlist.m3u8
 #EXTINF:-1 ,XHGV-TDT SD
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 #EXTINF:-1 ,XHIJ-TDT SD
 https://5e50264bd6766.streamlock.net/canal44/videocanal44/playlist.m3u8
 #EXTINF:-1 ,XHTTG-TDT SD
 https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
-#EXTINF:-1 ,EXTVLCOPT
-https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8
-#EXTINF:-1 ,Zurqui TV SD
-https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
