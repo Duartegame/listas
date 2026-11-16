@@ -1,0 +1,211 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="online-24-7" tvg-name="online-24-7" group-title="Variedad Infantiles",online-24-7
+http://200.80.230.125:5056/Live/19dc598e50936ebefdd1d9ed9e56a297/online-24-7.playlist.m3u8
+
+#EXTINF:-1 tvg-id="telefe" tvg-name="telefe" group-title="Nacionales Noticias Novelas Variedad",telefe
+http://200.80.230.125:5056/Live/19dc598e50936ebefdd1d9ed9e56a297/telefe.playlist.m3u8
+
+#EXTINF:-1 tvg-id="eltrece" tvg-name="eltrece" group-title="Nacionales Noticias Novelas Variedad",eltrece
+http://200.80.230.125:5056/Live/19dc598e50936ebefdd1d9ed9e56a297/eltrece.playlist.m3u8
+
+#EXTINF:-1 tvg-id="tvpublica" tvg-name="tvpublica" group-title="Nacionales Noticias Variedad",tvpublica
+http://200.80.230.125:5056/Live/19dc598e50936ebefdd1d9ed9e56a297/tvpublica.playlist.m3u8
+
+#EXTINF:-1 tvg-id="americatv" tvg-name="americatv" group-title="Nacionales Noticias Variedad",americatv
+http://200.80.230.125:5056/Live/19dc598e50936ebefdd1d9ed9e56a297/americatv.playlist.m3u8
+
+#EXTINF:-1 tvg-id="tn" tvg-name="tn" group-title="Nacionales Noticias",tn
+http://200.80.230.125:5056/Live/19dc598e50936ebefdd1d9ed9e56a297/tn.playlist.m3u8
+
+#EXTINF:-1 tvg-id="rural" tvg-name="rural" group-title="Nacionales",rural
+http://200.80.230.125:5056/Live/19dc598e50936ebefdd1d9ed9e56a297/rural.playlist.m3u8
+
+#EXTINF:-1 tvg-id="argentinisima" tvg-name="argentinisima" group-title="Cultura",argentinisima
+http://200.80.230.125:5056/Live/19dc598e50936ebefdd1d9ed9e56a297/argentinisima.playlist.m3u8
+
+#EXTINF:-1 tvg-id="tierramiatv" tvg-name="tierramiatv" group-title="Música Cultura",tierramiatv
+http://200.80.230.125:5056/Live/19dc598e50936ebefdd1d9ed9e56a297/tierramiatv.playlist.m3u8
+
+#EXTINF:-1 tvg-id="CronicaTv" tvg-name="CronicaTv" group-title="Nacionales Noticias",CronicaTv
+http://200.80.230.125:5056/Live/19dc598e50936ebefdd1d9ed9e56a297/CronicaTv.playlist.m3u8
+
+#EXTINF:-1 tvg-id="c5n" tvg-name="c5n" group-title="Nacionales Noticias",c5n
+http://200.80.230.125:5056/Live/19dc598e50936ebefdd1d9ed9e56a297/c5n.playlist.m3u8
+
+#EXTINF:-1 tvg-id="a24" tvg-name="a24" group-title="Noticias",a24
+http://200.80.230.125:5056/Live/19dc598e50936ebefdd1d9ed9e56a297/a24.playlist.m3u8
+
+#EXTINF:-1 tvg-id="canal9televida" tvg-name="canal9televida" group-title="Nacionales Variedad",canal9televida
+http://200.80.230.125:5056/Live/19dc598e50936ebefdd1d9ed9e56a297/canal9televida.playlist.m3u8
+
+#EXTINF:-1 tvg-id="lntv" tvg-name="lntv" group-title="Nacionales Variedad",lntv
+http://200.80.230.125:5056/Live/19dc598e50936ebefdd1d9ed9e56a297/lntv.playlist.m3u8
+
+#EXTINF:-1 tvg-id="c26" tvg-name="c26" group-title="Nacionales Variedad",c26
+http://200.80.230.125:5056/Live/19dc598e50936ebefdd1d9ed9e56a297/c26.playlist.m3u8
+
+#EXTINF:-1 tvg-id="Ciudadmagazine" tvg-name="Ciudadmagazine" group-title="Nacionales Variedad",Ciudadmagazine
+http://200.80.230.125:5056/Live/19dc598e50936ebefdd1d9ed9e56a297/Ciudadmagazine.playlist.m3u8
+
+#EXTINF:-1 tvg-id="garage" tvg-name="garage" group-title="Nacionales Deportes Variedad Cultura",garage
+http://200.80.230.125:5056/Live/19dc598e50936ebefdd1d9ed9e56a297/garage.playlist.m3u8
+
+#EXTINF:-1 tvg-id="tectv" tvg-name="tectv" group-title="Nacionales Variedad",tectv
+http://200.80.230.125:5056/Live/19dc598e50936ebefdd1d9ed9e56a297/tectv.playlist.m3u8
+
+#EXTINF:-1 tvg-id="Multivision" tvg-name="Multivision" group-title="Nacionales Noticias Variedad",Multivision
+http://200.80.230.125:5056/Live/19dc598e50936ebefdd1d9ed9e56a297/Multivision.playlist.m3u8
+
+#EXTINF:-1 tvg-id="telemax" tvg-name="telemax" group-title="Nacionales Música Variedad Cultura",telemax
+http://200.80.230.125:5056/Live/19dc598e50936ebefdd1d9ed9e56a297/telemax.playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanalNet" tvg-name="CanalNet" group-title="Nacionales Novelas Variedad",CanalNet
+http://200.80.230.125:5056/Live/19dc598e50936ebefdd1d9ed9e56a297/CanalNet.playlist.m3u8
+
+#EXTINF:-1 tvg-id="CGTNesp" tvg-name="CGTNesp" group-title="Variedad",CGTNesp
+http://200.80.230.125:5056/Live/19dc598e50936ebefdd1d9ed9e56a297/CGTNesp.playlist.m3u8
+
+#EXTINF:-1 tvg-id="fmirelive" tvg-name="fmirelive" group-title="Nacionales Radio",fmirelive
+http://200.80.230.125:5056/Live/19dc598e50936ebefdd1d9ed9e56a297/fmirelive.playlist.m3u8
+
+#EXTINF:-1 tvg-id="okfmarroyito" tvg-name="okfmarroyito" group-title="Radio Variedad",okfmarroyito
+http://200.80.230.125:5056/Live/19dc598e50936ebefdd1d9ed9e56a297/okfmarroyito.playlist.m3u8
+
+#EXTINF:-1 tvg-id="freyre" tvg-name="freyre" group-title="Nacionales",freyre
+http://200.80.230.125:5056/Live/19dc598e50936ebefdd1d9ed9e56a297/freyre.playlist.m3u8
+
+#EXTINF:-1 tvg-id="t5satelital" tvg-name="t5satelital" group-title="Nacionales Variedad",t5satelital
+http://200.80.230.125:5056/Live/19dc598e50936ebefdd1d9ed9e56a297/t5satelital.playlist.m3u8
+
+#EXTINF:-1 tvg-id="telesolsanjuan" tvg-name="telesolsanjuan" group-title="Nacionales Noticias Novelas Variedad",telesolsanjuan
+http://200.80.230.125:5056/Live/19dc598e50936ebefdd1d9ed9e56a297/telesolsanjuan.playlist.m3u8
+
+#EXTINF:-1 tvg-id="MediosProvincia" tvg-name="MediosProvincia" group-title="Nacionales",MediosProvincia
+http://200.80.230.125:5056/Live/19dc598e50936ebefdd1d9ed9e56a297/MediosProvincia.playlist.m3u8
+
+#EXTINF:-1 tvg-id="c5sf" tvg-name="c5sf" group-title="Nacionales Noticias",c5sf
+http://200.80.230.125:5056/Live/19dc598e50936ebefdd1d9ed9e56a297/c5sf.playlist.m3u8
+
+#EXTINF:-1 tvg-id="canal5" tvg-name="canal5" group-title="Nacionales Variedad",canal5
+http://200.80.230.125:5056/Live/19dc598e50936ebefdd1d9ed9e56a297/canal5.playlist.m3u8
+
+#EXTINF:-1 tvg-id="10MardelPlata" tvg-name="10MardelPlata" group-title="Nacionales",10MardelPlata
+http://200.80.230.125:5056/Live/19dc598e50936ebefdd1d9ed9e56a297/10MardelPlata.playlist.m3u8
+
+#EXTINF:-1 tvg-id="silverchannel" tvg-name="silverchannel" group-title="Nacionales",silverchannel
+http://200.80.230.125:5056/Live/19dc598e50936ebefdd1d9ed9e56a297/silverchannel.playlist.m3u8
+
+#EXTINF:-1 tvg-id="nortevision" tvg-name="nortevision" group-title="Nacionales",nortevision
+http://200.80.230.125:5056/Live/19dc598e50936ebefdd1d9ed9e56a297/nortevision.playlist.m3u8
+
+#EXTINF:-1 tvg-id="canal7jujuy" tvg-name="canal7jujuy" group-title="Nacionales Variedad",canal7jujuy
+http://200.80.230.125:5056/Live/19dc598e50936ebefdd1d9ed9e56a297/canal7jujuy.playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTNNeuquen" tvg-name="RTNNeuquen" group-title="Nacionales",RTNNeuquen
+http://200.80.230.125:5056/Live/19dc598e50936ebefdd1d9ed9e56a297/RTNNeuquen.playlist.m3u8
+
+#EXTINF:-1 tvg-id="canal7salta" tvg-name="canal7salta" group-title="Nacionales",canal7salta
+http://200.80.230.125:5056/Live/19dc598e50936ebefdd1d9ed9e56a297/canal7salta.playlist.m3u8
+
+#EXTINF:-1 tvg-id="c7nq" tvg-name="c7nq" group-title="Nacionales Noticias Variedad",c7nq
+http://200.80.230.125:5056/Live/19dc598e50936ebefdd1d9ed9e56a297/c7nq.playlist.m3u8
+
+#EXTINF:-1 tvg-id="cn247" tvg-name="cn247" group-title="Nacionales Noticias",cn247
+http://200.80.230.125:5056/Live/19dc598e50936ebefdd1d9ed9e56a297/cn247.playlist.m3u8
+
+#EXTINF:-1 tvg-id="ciudadchaco" tvg-name="ciudadchaco" group-title="Nacionales Variedad",ciudadchaco
+http://200.80.230.125:5056/Live/19dc598e50936ebefdd1d9ed9e56a297/ciudadchaco.playlist.m3u8
+
+#EXTINF:-1 tvg-id="LinkTvCanal" tvg-name="LinkTvCanal" group-title="Nacionales Variedad",LinkTvCanal
+http://200.80.230.125:5056/Live/19dc598e50936ebefdd1d9ed9e56a297/LinkTvCanal.playlist.m3u8
+
+#EXTINF:-1 tvg-id="5tv" tvg-name="5tv" group-title="Nacionales",5tv
+http://200.80.230.125:5056/Live/19dc598e50936ebefdd1d9ed9e56a297/5tv.playlist.m3u8
+
+#EXTINF:-1 tvg-id="docemisiones" tvg-name="docemisiones" group-title="Nacionales",docemisiones
+http://200.80.230.125:5056/Live/19dc598e50936ebefdd1d9ed9e56a297/docemisiones.playlist.m3u8
+
+#EXTINF:-1 tvg-id="4sanjuan" tvg-name="4sanjuan" group-title="Nacionales Novelas Variedad",4sanjuan
+http://200.80.230.125:5056/Live/19dc598e50936ebefdd1d9ed9e56a297/4sanjuan.playlist.m3u8
+
+#EXTINF:-1 tvg-id="RedBull" tvg-name="RedBull" group-title="Deportes Mundo",RedBull
+http://200.80.230.125:5056/Live/19dc598e50936ebefdd1d9ed9e56a297/RedBull.playlist.m3u8
+
+#EXTINF:-1 tvg-id="Extrema" tvg-name="Extrema" group-title="Cine Mundo",Extrema
+http://200.80.230.125:5056/Live/19dc598e50936ebefdd1d9ed9e56a297/Extrema.playlist.m3u8
+
+#EXTINF:-1 tvg-id="rttve" tvg-name="rttve" group-title="Noticias",rttve
+http://200.80.230.125:5056/Live/19dc598e50936ebefdd1d9ed9e56a297/rttve.playlist.m3u8
+
+#EXTINF:-1 tvg-id="Airang" tvg-name="Airang" group-title="Variedad Cultura Mundo",Airang
+http://200.80.230.125:5056/Live/19dc598e50936ebefdd1d9ed9e56a297/Airang.playlist.m3u8
+
+#EXTINF:-1 tvg-id="nuevotiempo" tvg-name="nuevotiempo" group-title="Cultura Religión Mundo",nuevotiempo
+http://200.80.230.125:5056/Live/19dc598e50936ebefdd1d9ed9e56a297/nuevotiempo.playlist.m3u8
+
+#EXTINF:-1 tvg-id="novotempo" tvg-name="novotempo" group-title="Cultura Religión Mundo",novotempo
+http://200.80.230.125:5056/Live/19dc598e50936ebefdd1d9ed9e56a297/novotempo.playlist.m3u8
+
+#EXTINF:-1 tvg-id="ciudadpringles" tvg-name="ciudadpringles" group-title="Radio",ciudadpringles
+http://200.80.230.125:5056/Live/19dc598e50936ebefdd1d9ed9e56a297/ciudadpringles.playlist.m3u8
+
+#EXTINF:-1 tvg-id="fm1063" tvg-name="fm1063" group-title="Radio",fm1063
+http://200.80.230.125:5056/Live/19dc598e50936ebefdd1d9ed9e56a297/fm1063.playlist.m3u8
+
+#EXTINF:-1 tvg-id="canalorbe21" tvg-name="canalorbe21" group-title="Religión",canalorbe21
+http://200.80.230.125:5056/Live/19dc598e50936ebefdd1d9ed9e56a297/canalorbe21.playlist.m3u8
+
+#EXTINF:-1 tvg-id="alientovision" tvg-name="alientovision" group-title="Cultura Religión Mundo",alientovision
+http://200.80.230.125:5056/Live/19dc598e50936ebefdd1d9ed9e56a297/alientovision.playlist.m3u8
+
+#EXTINF:-1 tvg-id="EWTN" tvg-name="EWTN" group-title="Religión Mundo",EWTN
+http://200.80.230.125:5056/Live/19dc598e50936ebefdd1d9ed9e56a297/EWTN.playlist.m3u8
+
+#EXTINF:-1 tvg-id="RedAvenir" tvg-name="RedAvenir" group-title="Religión",RedAvenir
+http://200.80.230.125:5056/Live/19dc598e50936ebefdd1d9ed9e56a297/RedAvenir.playlist.m3u8
+
+#EXTINF:-1 tvg-id="enlace" tvg-name="enlace" group-title="Religión Mundo",enlace
+http://200.80.230.125:5056/Live/19dc598e50936ebefdd1d9ed9e56a297/enlace.playlist.m3u8
+
+#EXTINF:-1 tvg-id="ComunionTV" tvg-name="ComunionTV" group-title="Religión",ComunionTV
+http://200.80.230.125:5056/Live/19dc598e50936ebefdd1d9ed9e56a297/ComunionTV.playlist.m3u8
+
+#EXTINF:-1 tvg-id="canalluz" tvg-name="canalluz" group-title="Nacionales Religión",canalluz
+http://200.80.230.125:5056/Live/19dc598e50936ebefdd1d9ed9e56a297/canalluz.playlist.m3u8
+
+#EXTINF:-1 tvg-id="CTNi" tvg-name="CTNi" group-title="Religión",CTNi
+http://200.80.230.125:5056/Live/19dc598e50936ebefdd1d9ed9e56a297/CTNi.playlist.m3u8
+
+#EXTINF:-1 tvg-id="radiomaria" tvg-name="radiomaria" group-title="Radio Religión",radiomaria
+http://200.80.230.125:5056/Live/19dc598e50936ebefdd1d9ed9e56a297/radiomaria.playlist.m3u8
+
+#EXTINF:-1 tvg-id="lacoope895" tvg-name="lacoope895" group-title="Música Radio",lacoope895
+http://200.80.230.125:5056/Live/19dc598e50936ebefdd1d9ed9e56a297/lacoope895.playlist.m3u8
+
+#EXTINF:-1 tvg-id="delsolfmlafrancia" tvg-name="delsolfmlafrancia" group-title="Radio",delsolfmlafrancia
+http://200.80.230.125:5056/Live/19dc598e50936ebefdd1d9ed9e56a297/delsolfmlafrancia.playlist.m3u8
+
+#EXTINF:-1 tvg-id="master967" tvg-name="master967" group-title="Radio",master967
+http://200.80.230.125:5056/Live/19dc598e50936ebefdd1d9ed9e56a297/master967.playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioUrbana" tvg-name="RadioUrbana" group-title="Música",RadioUrbana
+http://200.80.230.125:5056/Live/19dc598e50936ebefdd1d9ed9e56a297/RadioUrbana.playlist.m3u8
+
+#EXTINF:-1 tvg-id="orion887" tvg-name="orion887" group-title="Radio",orion887
+http://200.80.230.125:5056/Live/19dc598e50936ebefdd1d9ed9e56a297/orion887.playlist.m3u8
+
+#EXTINF:-1 tvg-id="musictop" tvg-name="musictop" group-title="Música Radio Mundo",musictop
+http://200.80.230.125:5056/Live/19dc598e50936ebefdd1d9ed9e56a297/musictop.playlist.m3u8
+
+#EXTINF:-1 tvg-id="oneworldradio" tvg-name="oneworldradio" group-title="Música",oneworldradio
+http://200.80.230.125:5056/Live/19dc598e50936ebefdd1d9ed9e56a297/oneworldradio.playlist.m3u8
+
+#EXTINF:-1 tvg-id="fmpowermax" tvg-name="fmpowermax" group-title="Radio",fmpowermax
+http://200.80.230.125:5056/Live/19dc598e50936ebefdd1d9ed9e56a297/fmpowermax.playlist.m3u8
+
+#EXTINF:-1 tvg-id="portalfoxmix" tvg-name="portalfoxmix" group-title="Música Mundo",portalfoxmix
+http://200.80.230.125:5056/Live/19dc598e50936ebefdd1d9ed9e56a297/portalfoxmix.playlist.m3u8
+
+#EXTINF:-1 tvg-id="retro" tvg-name="retro" group-title="Música Radio Mundo",retro
+http://200.80.230.125:5056/Live/19dc598e50936ebefdd1d9ed9e56a297/retro.playlist.m3u8
